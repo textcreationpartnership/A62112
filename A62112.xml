@@ -1,0 +1,963 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Jesus his commission (under the broad seal of His Highnes the Royal &amp; Real Lord Protector of heaven and earth) as man, to be the alone judge of life and death in the great and general assize of the world proved and improved before the reverend judges at the assize holden at Maidstone, March 17, 1655 for the county of Kent / by Henry Symons.</title>
+            <author>Symons, Henry, fl. 1657-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 114 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62112</idno>
+            <idno type="STC">Wing S6360A</idno>
+            <idno type="STC">ESTC R26957</idno>
+            <idno type="EEBO-CITATION">09594134</idno>
+            <idno type="OCLC">ocm 09594134</idno>
+            <idno type="VID">43752</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62112)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43752)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1342:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Jesus his commission (under the broad seal of His Highnes the Royal &amp; Real Lord Protector of heaven and earth) as man, to be the alone judge of life and death in the great and general assize of the world proved and improved before the reverend judges at the assize holden at Maidstone, March 17, 1655 for the county of Kent / by Henry Symons.</title>
+                  <author>Symons, Henry, fl. 1657-1658.</author>
+               </titleStmt>
+               <extent>[4], 46 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.H. and are to be sold by H. Crips,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: Agdridichasēs archidichasis.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Acts XVII, 31 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43752:1"/>
+            <pb facs="tcp:43752:1" rendition="simple:additions"/>
+            <p> THE Lord JESUS HIS COMMISSION (Under the Broad Seal of his HIGHNES THE Royal &amp; Real Lord PROTECTOR of Heaven and Earth) as MAN, to be the alone JUDGE of Life and Death, in the Great and General ASSIZE of the WORLD;</p>
+            <p>Proved and Improved before the Reverend Judges AT THE Aſſize holden at <hi>Maidſtone,</hi> March 17, 1655. FOR THE COUNTY of KENT.</p>
+            <p>By HENRY SYMONS, M. A. and Miniſter of the Goſpel at <hi>Southfleet</hi> in KENT.</p>
+            <q>
+               <bibl>John 5. 22. 27.</bibl>
+               <p>
+                  <hi>For the Father judgeth no man, but hath committed all judgment to the Son, and hath given him Authority to execute judgement alſo, becauſe he is the Son of man.</hi>
+               </p>
+            </q>
+            <q>
+               <p>Hîc oſtendit, quòd in ea carne venit judicaturus, in qua venerat judican<g ref="char:EOLhyphen"/>dus.</p> 
+               <bibl>
+                  <hi>Aug. de Civ. Dei,</hi> lib. 20. c. 6.</bibl>
+            </q>
+            <q>
+               <p>Bene terrena declinat, qui propter divina deſcenderat, nec judex dignatur eſſe litium &amp; arbiter facultatum, vivorum habens mortuorumque judicium.</p> 
+               <bibl>
+                  <hi>Amb. Tom.</hi> 3. <hi>lib.</hi> 7. in Lue.</bibl>
+            </q>
+            <q>
+               <l>
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l> 
+               <bibl>Sybil. Eryth. Vat. ut <hi>Euſeb.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. H.</hi> &amp; are to be ſold by <hi>H. Crips</hi> in <hi>Popes-head alley.</hi> 1657.</p>
+            <pb facs="tcp:43752:2"/>
+            <pb facs="tcp:43752:2" rendition="simple:additions"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:43752:3"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:43752:3"/>
+            <head>
+               <hi>To the Truly Honourable HIS Deſervedly Honoured Friend S<hi rend="sup">r</hi>
+               </hi> MICHAEL LIVESEY <hi>Baronet, High Sheriff of the COUNTY of KENT.</hi>
+            </head>
+            <opener>
+               <salute>Noble SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is my ambition to put, not my Ser<g ref="char:EOLhyphen"/>mon, but my Service in Print; ſo much I ſtand ingaged to your Ho<g ref="char:EOLhyphen"/>nour, that it's not the Dedication of my Sermon, but of my ſelf, that will ſatisfie you, nor that neither. I know this Criticall, or rather Hyper<g ref="char:EOLhyphen"/>criticall, I had almoſt ſaid, Hypocriticall age, will cenſure and ſlander me for pride and preſumption in appearing ſo publickly, but the Orator hath made my <note place="margin">
+                  <hi>Sen.</hi> de Ben. lib. 2. cap. 23.</note> Apology; <hi>Furtivè gratias agunt qui in angulo &amp; in</hi>
+               <pb facs="tcp:43752:4"/> 
+               <hi>aurem.</hi> They that give private thanks for publick fa<g ref="char:EOLhyphen"/>vours; commit a theft for which they deſerve (though not to be burned in the hand) yet to be branded in their name for ingratitude. This hath cauſed me to proclaim my indearments and indebtments upon the houſe top. It was my fear once (what was <hi>Furnius</hi> to <hi>Auguſtus Caeſar) Ne morerer ingratus.</hi> I have laid hold <note place="margin">
+                  <hi>Eraſm.</hi> Apoth. lib. 7.</note> therefore on this lock of opportunity, to publiſh to the world, what ground I had to render ſuch a Teſtimony of Gratitude. When I deſigned my ſelf and Miniſte<g ref="char:EOLhyphen"/>rial ſervice for <hi>Briſtol,</hi> and to baniſh my ſelf from mine own native Country, by a perpetual Oſtraciſm. and to ſay that which was written upon the Tomb-ſtone of <hi>Scipio Africanus, Ingrata patria, ne oſſa quidem</hi> 
+               <note place="margin">
+                  <hi>Val. Max.</hi> lib. 5. cap. 3.</note> 
+               <hi>mea habes:</hi> unſought to, unſent to, on my part, you Barracado'd up my way with <hi>Southfleet</hi> Living: Since which time I have fallen <hi>(fato neſcio quo iniquo)</hi> between the two Mil-ſtones of this age, <hi>Cavaliers</hi> and <hi>Cavellers,</hi> I mean, prophane ſinners, and proud Sectaries, who endeavoured to grinde me to powder; you alwaies interpoſed your ſelf to keep me from the <hi>malice</hi> of the one, and the <hi>malignancy</hi> of the other. Theſe ſtorms alaid, perceiving that moſt mens conſci<g ref="char:EOLhyphen"/>ences were ſo feſtered with corruptions, that they hate him who <hi>rebuketh in the gate,</hi> and abhorre him <hi>that ſpeaketh uprightly,</hi> Amos 5. 10. I reſolved to ſilence my ſelf, <hi>becauſe it was an evil time,</hi> ver. 13. and to obſerve that rule, <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to hide my ſelf in ſome dark cloud or corner, and never to have appeared in publick any more; but to have concluded with <hi>Lu<g ref="char:EOLhyphen"/>ther</hi>'s <hi>Vadat mundus, ſicut vadit, nam vult vadere, ſicut vadit.</hi> You then ſued me with a <hi>Latitat,</hi> and cauſed my perſonal appearance before the Judges, to an<g ref="char:EOLhyphen"/>ſwer
+<pb facs="tcp:43752:4"/> 
+               <hi>ſe defendendo.</hi> Sir, that ſuch a broken pot<g ref="char:EOLhyphen"/>ſheard (who did as little deſire, as deſerve to act any part on ſuch a publick Theater) ſhould be cull'd and call'd out by you, muſt needs publiſh, your judgement was very weak, or your affection was very ſtrong. And becauſe there is a <hi>Noverint univerſi</hi> upon your judge<g ref="char:EOLhyphen"/>ment, for the ſolidneſs of it, I muſt acknowledge it was the vail of your Love that covered my many defects and deficiencies for ſuch an imploy<g ref="char:EOLhyphen"/>ment. You have been a faſt and faithfull friend to me at all turns and times; You are none of thoſe Glow<g ref="char:EOLhyphen"/>worm <hi>Amico's</hi> (with which this age more abounds, than <hi>Nilus</hi> with Crocodiles) who promiſe and pretend much light and heat of love and affection, but being touched and tried, have neither; but only the ſqualid and noiſom matter of <hi>Your ſervant Sir.</hi> You ſtood by me when it was little leſs than Treaſon to own a Mi<g ref="char:EOLhyphen"/>niſter, who had ſincerely begun with the Parliament-Cauſe, and did ſeriouſly endeavour to keep the Parlia<g ref="char:EOLhyphen"/>ment-Covenant. Wherefore having more reaſon, than ever <hi>Aeſchines</hi> had to <hi>Socrates,</hi> I Dedicate and Devote my ſelf wholly to your ſervice. This acknowledge<g ref="char:EOLhyphen"/>ment had come out ſooner, but that you were ſo ſerious and ſedulous to do your Country ſervice, that you could not but have returned <hi>Antipaters</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: But now hoping you ſhall have leave and leaſure for ſoul<g ref="char:EOLhyphen"/>affairs, I preſent that to you in whole, which you heard but in part. Time was (by the Judges command) not Executor to, but Executioner of my Text, the glaſs was the fatall <hi>Atropos,</hi> to cut aſunder the life-thred of my Sermon, ſo that I was <hi>Autor operis im<g ref="char:EOLhyphen"/>perfecti,</hi> I therefore here lay it forth, in the true method it was compoſed. I preached it to you then to
+<pb facs="tcp:43752:5"/> be a Star to guide you in your preſent place, I preſent it to you now, to be a fiery Pillar to lead and lighten you in your future pilgrimage. Sir, be pleaſed to let this Sermon be another <hi>Jerom</hi>'s Trumpet, to ſound Judgements<g ref="char:punc">▪</g> Alarum alwaies in your ears; I can aſſure you it will be of ſerious conſequence to you in your life, and of ſweet conſolation to you in your death. But not to create further trouble <hi>(verbum ſapienti)</hi> I ſhall winde up all upon the quill of thoſe words, which were <hi>Pauls</hi> Prayer for good <hi>Oneſiphorus, The Lord grant unto you that you may finde mercy of the Lord in that day,</hi> 2 Tim. 1. 18. Which is the daily Prayer of</p>
+            <closer>
+               <signed>Your obliged Chaplain, <hi>HENRY SYMONS.</hi>
+               </signed>
+               <dateline>
+                  <hi>From my Study in</hi> Southfleet, <date>Nov. 1. 1657.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <p>
+               <hi>Reader,</hi> The abſence of the Author, and his inconvenient diſtance from <hi>London,</hi> hath occaſioned ſome leſſer miſtakes in this Sermon, which thou art deſired to amend Thus:</p>
+         </div>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>
+               <hi>Page</hi> 2. <hi>line</hi> 9. <hi>for</hi> prophane, <hi>read</hi> profound. <hi>p.</hi> 3. <hi>l.</hi> 9. <hi>r.</hi> ſuperficiem. <hi>p.</hi> 11. <hi>l.</hi> 15. <hi>r.</hi> principall. <hi>p.</hi> 16. <hi>l.</hi> 30. <hi>r.</hi> Syſamnes. <hi>p.</hi> 24. <hi>l.</hi> 27. <hi>r.</hi> qui. <hi>p.</hi> 25. <hi>l.</hi> 19. <hi>r.</hi> taken in adultery. <hi>p.</hi> 26. <hi>l.</hi> 38. <hi>r.</hi> faith. <hi>p.</hi> 27. <hi>l.</hi> 22. <hi>r.</hi> center. <hi>p.</hi> 31. <hi>l.</hi> 5. <hi>r.</hi> Pſal. 50. v. 21. <hi>p.</hi> 32. <hi>l.</hi> 9. <hi>r.</hi> Arithuſa. <hi>p.</hi> 34. <hi>l.</hi> 16. <hi>r.</hi> generall.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:43752:5"/>
+            <head>The Text.</head>
+            <epigraph>
+               <bibl>ACTS 17. 31.</bibl>
+               <q>Becauſe he hath appointed a Day in the which he will Judge the world in righteouſneſs, by that Man whom he hath ordained.</q>
+            </epigraph>
+            <p>
+               <hi>
+                  <seg rend="decorInit">P</seg>Aul</hi> being perſecuted by the envious Jews from <hi>Theſſalonica,</hi> v. 5. and proſecuted by them to <hi>Berea,</hi> v. 13. is carried by providence to <hi>Athens,</hi> v. 15. A place not more <hi>Famous</hi> for <hi>Learning,</hi> than <hi>Infamous</hi> for <hi>Superſtition:</hi> which <hi>Paul</hi> perceiving, his heart fired, the flame whereof vented at his tongue againſt their Idolatry, <hi>v.</hi> 16, 17</p>
+            <p>The Philoſophers readily encounter him, being joyfull to meet with any Champion that will combat with them, <hi>verſ.</hi> 18.</p>
+            <p>With all <hi>celerity,</hi> yet <hi>civility</hi> they carry him to <hi>Areopagus,</hi> the higheſt Court in <hi>Athens, v.</hi> 19. where he ſtanding up in the midſt of <hi>Mars-</hi>hill, makes a moſt Elegant and Elo<g ref="char:EOLhyphen"/>quent Oration, ſtuft with ſo much <hi>Rhetorick,</hi> ſtrengthned with ſo much <hi>Reaſon,</hi> that they might have ſaid, as <hi>Julian</hi> did of Chriſtians uſing the Heathens Learning, <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Like birds we are wounded with Arrows headed with our own Feathers. Here I might take occa<g ref="char:EOLhyphen"/>ſion to acquaint you with the excellency and neceſſity of
+<pb n="2" facs="tcp:43752:6"/> Oratory, as a hand-maid to Divinity; but I am not now in the Rhetorick Schools.</p>
+            <p>I ſhall leave the Rhetorical part, and inſiſt on the Ra<g ref="char:EOLhyphen"/>tional, in which <hi>Paul</hi> labours two things:</p>
+            <list>
+               <item>1. To <hi>convince</hi> them by Reaſon.</item>
+               <item>2. To <hi>convert</hi> them to Religion.</item>
+            </list>
+            <p n="1">1. He ſpreads before them a draft of their own folly, ſhewing the Maſters of Reaſon had forfeited their Reaſon, that ſuch prophane Philoſophers ſhould worſhip a God, that they know not <hi>whence</hi> he is, <hi>what</hi> he is, <hi>who</hi> he is, <hi>where</hi> he is: that a Bill ſhould be ſent to the Grand Jury of Philoſophers about that God that gives Being, Breath<g ref="char:EOLhyphen"/>ing, and every bleſſing, and they ſhould return an <hi>Igno<g ref="char:EOLhyphen"/>ramus. Lucian</hi> (the <hi>Praevaricator</hi> in his age) did obſerve, that the very Clowns and Corydons, neighbours to them, did deride the Philoſophers, by ſwearing by him that was unknown at <hi>Athens.</hi>
+            </p>
+            <p n="2">2. He preſſes on them their Being <list>
+                  <item>from</item>
+                  <item>in</item>
+               </list> God:</p>
+            <p>Which he confirms by one of their Prophets, but as we term them, their Poets;</p>
+            <p>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>v.</hi> 28. A piece of <hi>Aratus</hi> an Heatheniſh Poet very delightfull to King <hi>Antiochus</hi> in his daies.</p>
+            <p>Obſ. <hi>A piece of an Heatheniſh Poet is in the Scripture:</hi> What offence then can it be to be in a Sermon. We have three ſingular and ſweet Arguments couched up in this Diſcourſe.</p>
+            <p n="1">1. God made you, therefore you cannot make God.</p>
+            <p n="2">2. God made you of better matter and mettal than gold and ſilver, wood and ſtone; now if a living Man be better than any Picture or Statue whatever, then it much pro<g ref="char:EOLhyphen"/>claims your vanity and weakneſs to make a God of that which is farre below your ſelves.</p>
+            <p n="3">3. He made you of his Race and Kin, according to your nobler part (that <hi>divinae aurae particula)</hi> your Soul, there<g ref="char:EOLhyphen"/>fore your worſhip of him muſt be ſuch as principally flows
+<pb n="3" facs="tcp:43752:6"/> from that, <hi>viz.</hi> pure and ſpiritual worſhip; as <hi>Cato,</hi> though a Heathen, could affirm.</p>
+            <l>Si Deus eſt animus (nobis ut carmina dicunt)</l>
+            <l>Hic tibi praecipue ſit pura mente colendus.</l>
+            <p>Having wrought conviction, he endeavours converſion, by preſſing and perſwading them to Repentance, from the great and general command of God, <hi>ver.</hi> 30. <hi>The times of this ignorance God winked at, but now commandeth all men,</hi> 
+               <note place="margin">
+                  <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>i. e. ſu<g ref="char:EOLhyphen"/>perficium tan<g ref="char:EOLhyphen"/>tum intuens.</hi> Sanct.</note> 
+               <hi>every where to repent: i. e.</hi> God was pleaſed once to be an Overſeer to the world, but now he is Lord High Conſtable of the world, to command you to repent.</p>
+            <p>Obſ. <hi>Repentance for ſinne is the firſt and great Goſpel duty. Paul</hi> preſſes this <hi>Inprimis</hi> upon the Philoſophers, from Gods univerſal command both of perſons and places, <hi>All men, every where, to repent:</hi> How doth this beat down the flag of the Antinomians, or rather Autonomians, who ſay it is ſo far from a Goſpel duty to repent for ſin, that it is a ſin for to repent.</p>
+            <p>In my Text he gives the reaſon why it is ſo neceſſary to repent, becauſe of that rigid Judge, and righteous judge<g ref="char:EOLhyphen"/>ment, that are ſurely and certainly to come, <hi>Becauſe he hath appointed a Day.</hi>
+            </p>
+            <p>Doct. <hi>It will be a dangerous and dreadfull thing for Phi<g ref="char:EOLhyphen"/>loſophers, Orators, Maſters of Reaſon, the wiſest and wittieſt of men to be found in a ſtate of ſinne and ſuperſtition in the day of Judgement.</hi>
+            </p>
+            <p>The words in themſelves are a lively deſcription of the great and general Aſſize.</p>
+            <p>There are three things to be done about them.</p>
+            <list>
+               <item>1. Explication of the Terms.</item>
+               <item>2. Diviſion of the Text.</item>
+               <item>3. Deduction of the Truths.</item>
+            </list>
+            <p>Firſt, To explicate and unfold.</p>
+            <p n="1">1. <hi>He hath appointed:</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>poſuit;</hi> he hath put it among the Records of heaven, in his eternal Decree hath fixed it.</p>
+            <p n="2">
+               <pb n="4" facs="tcp:43752:7"/> 2. <hi>A, Day:</hi> preciſely a day artificial ſet and ſhort; we reade of leſſe, not of more, <hi>Matth.</hi> 24. 36. <hi>Of that day and hour.</hi>
+            </p>
+            <p n="3">3. <hi>To judge:</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, divide and ſeparate <hi>(ſi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> proprie, Paſor.) Judicio</hi>
+               <list>
+                  <item>
+                     <hi>Diſcuſſionis,</hi>
+                  </item>
+                  <item>
+                     <hi>Retributionis,</hi>
+                  </item>
+               </list> Aquin.</p>
+            <p n="4">4. <hi>The World:</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>orbem terrarum,</hi> the rati<g ref="char:EOLhyphen"/>onal, but ſinfull world: vile Angels, wicked men.</p>
+            <p n="5">5. <hi>In righteouſueſſe:</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in equity; a vertue highly valued among the Heathen, that the Philoſopher ſaies of it, it out ſhines the evening and morning Starre, and concludes with <hi>Theognis,</hi>
+            </p>
+            <q>
+               <p>
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <note place="margin">Ariſt. 5<hi rend="sup">to</hi> 
+                     <hi>Eth. cap.</hi> 3.</note>
+               </p>
+            </q>
+            <p n="6">6. <hi>By that man:</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, for <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> an Hebraiſm, <hi>Piſcat.</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, very uſual in the Scripture, <hi>Lor. in loc.</hi>
+            </p>
+            <p>1. Man, <hi>i. e.</hi> the nature and ſhape of a man, perfect man, though more perfect than any man: <hi>Virum atta<g ref="char:EOLhyphen"/>men ut ſupra virum.</hi> 
+               <note place="margin">Orig. <hi>in Matth.</hi> 1.</note>
+            </p>
+            <p>2. That man.</p>
+            <p n="1">1. <hi>Per modum excellentiae,</hi> that good man; <hi>Job</hi> 1. 1. <hi>There was a man in the land of <g ref="char:V">Ʋ</g>z, i. e.</hi> one good man among many bad in <hi>Edom</hi> and <hi>Idumaea.</hi>
+            </p>
+            <p n="2">2. <hi>Per modum eminentiae,</hi> that great man, <hi>i. e.</hi> a Judge in power and authority, a Magiſtrate Civil or Military.</p>
+            <q>
+               <p>
+                  <hi>Arma virum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> cano.</hi> 
+                  <bibl>Virgil. <hi>Aen.</hi> 1</bibl>.</p>
+            </q>
+            <p>
+               <hi>Num.</hi> 27. 16. <hi>Set a man over the Congregation.</hi>
+            </p>
+            <p n="3">3. <hi>Per modum conjunctionis,</hi> that good man, that great man, that <hi>Iſh,</hi> as Criticks obſerve; a man of men fit<g ref="char:EOLhyphen"/>ted to honour God and govern men. <hi>Jer.</hi> 5. 1. <hi>Runne ye to and fro thorow the ſtreets of Jeruſalem, and ſee now if you can finde a man;</hi> ſurely no hard matter in ſuch a thronged City as <hi>Jeruſalem</hi> was, to finde a man, but ſuch a man <hi>(qualem vix reperit unum)</hi> as God requires, a good and great man: This is a ſweet and happy conjunction, when great men are good men, and when good men are great men; farre better than
+<pb n="5" facs="tcp:43752:7"/> 
+               <hi>Plato</hi>'s Commonwealth, <hi>ubi Philoſophi ſunt reges, &amp; reges Philoſophantur.</hi>
+            </p>
+            <p>7. <hi>Whom he hath ordained:</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>pro</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Greciſm, <hi>Piſcat. Per quem decreverat,</hi> Vatab.</p>
+            <p>Obſ. <hi>That man whom God hath anointed to be mans Savi<g ref="char:EOLhyphen"/>our, he hath alſo appointed to be mans Judge.</hi>
+            </p>
+            <p>Secondly, To divide the Text; in which are five parts.</p>
+            <list>
+               <item>1. The Author and Ordainer, he that commands Re<g ref="char:EOLhyphen"/>pentance, <hi>God.</hi>
+               </item>
+               <item>2. The circumſtance of time, <hi>a day.</hi>
+               </item>
+               <item>3. The felons to be adjudged, <hi>the world.</hi>
+               </item>
+               <item>4. The manner how, <hi>in righteouſneſſe.</hi>
+               </item>
+               <item>5. The Judge, who? <hi>that man whom God hath ordained.</hi>
+               </item>
+            </list>
+            <p>Thirdly, To deduce and derive the Truths, which though they are very many, yet I ſhall contract, or rather extract the vertue of theſe five parts, into this quinteſſential Doctrine:</p>
+            <p>Doct. <hi>That God hath given that man Chriſt Jeſus, the power and prerogative for the judicial tranſactions of the day of judgement.</hi>
+            </p>
+            <p>In the profecution of this Point I ſhall ſhew you,</p>
+            <list>
+               <item>1. <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, That it is ſo.</item>
+               <item>2. <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Why it is ſo.</item>
+               <item>3. <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, How he is ſo.</item>
+            </list>
+            <p>Firſt, <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, That it is ſo: And here I ſhall ſummon both Law and Goſpel to give in their evidence to confirm this Truth.</p>
+            <p n="I">I. The Law, which ſaies it can witneſs, that <hi>Enoch</hi> the ſeventh from <hi>Adam</hi> prophecied, <hi>Behold the Lord cometh with ten thouſand of his Saints to execute judgement upon all, Jude</hi> 14.</p>
+            <p>Give me leave to make the beſt of my witneſſes evidence; and this I ſhall do in four particulars.</p>
+            <p n="1">1. Obſerve the antiquity of this Truth, <hi>Enoch</hi> the ſeventh <note place="margin">Omne vetuſtum venerandum.</note> from <hi>Adam (i. e.</hi> in that particular direct line) who lived (as Chronologers affirm) 306 years in <hi>Adams</hi> daies.</p>
+            <p>Obſ. <hi>The end of the world was preached and propheſied in the beginning of the world.</hi>
+            </p>
+            <p n="2">
+               <pb n="6" facs="tcp:43752:8"/> 2. <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Ecce</hi> behold, <hi>particula inſerviens ad indicandum, incitandum,</hi> Ravan.</p>
+            <p n="1">1. Not only for admiration of a thing as moſt won<g ref="char:EOLhyphen"/>derfull, <hi>Iſa.</hi> 7. 14. <hi>Behold a Virgin ſhall conceive a child.</hi>
+            </p>
+            <p n="2">2. But alſo for attention to a thing as moſt certain, <hi>Matth.</hi> 28. 7. <hi>Behold he goeth before you into Galilee.</hi> So here.</p>
+            <p n="3">3. <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, The Lord, Perſonally, not Eſſentially. See who this Lord is, 2 <hi>Theſſ.</hi> 1. 7. <hi>The Lord Jeſus Chriſt, who ſhall be revealed from heaven with his mighty Angels.</hi>
+            </p>
+            <p n="4">4. <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>He comes,</hi> the preſent for the future tenſe, to intimate (ſaies Mr. <hi>Perkins)</hi> to us the certainty of his com<g ref="char:EOLhyphen"/>ing: the ſenſe is, he ſhall as certainly come, as if he were now a coming.</p>
+            <p n="II">II. The Law juſtifies, that <hi>Solomon</hi> the wiſeſt Prince and Preacher avows and avers it, in his recantation Sermon, <hi>Eccleſ.</hi> 11. 9. <hi>Rejoyce O young man in thy youth, and let thy heart chear thee in the daies of thy youth, and walk in the waies of thy heart, and in the ſight of thine eyes, but know thou that for all theſe things, God will bring thee into judgement. Verba haec valde emphatica.</hi> The words are ironical, and are <note place="margin">Lavater.</note> a ſmart jeer to the Hectors and Ranters of his age: He does as Hoſts, ſerve in great cheer, but withall, ſends after a ſawcy reckoning; <hi>Venite ad judicium.</hi>
+            </p>
+            <p n="2">2. Crier, Call in the Goſpel that that may teſtifie, or ra<g ref="char:EOLhyphen"/>ther terrifie with its witneſſe.</p>
+            <p n="1">1. That affirms, it is one of the firſt principles in every beleevers Catechiſm, <hi>Heb.</hi> 6, 2. <hi>and of eternal judgement.</hi> 
+               <note place="margin">Contra princi<g ref="char:EOLhyphen"/>pia negantem non eſt dispu<g ref="char:EOLhyphen"/>tandum.</note> Now to deny a principle in the Schools, much more in the Scriptures, is a groſſe and grievous Soleciſm.</p>
+            <p n="2">2. It can teſtifie that its a Statute-Law that was never yet repealed, nor ever ſhall be, <hi>Heb.</hi> 9. 27. <hi>It is appointed unto men once to die, and after this the judgement.</hi> This Statute ſtands in force as much for Judgement as for Death; Judge<g ref="char:EOLhyphen"/>ment is as ſure as death. Perhaps you will ſay, this witneſſe ſpeaks not home to the point and purpoſe; It ſpeaks enough to prove a day of judgement, but nothing to prove Chriſt to be Judge in that day, Though Judge and day of judge<g ref="char:EOLhyphen"/>ment
+<pb n="7" facs="tcp:43752:8"/> be <hi>relata,</hi> and one doth neceſſarily imply the other; <note place="margin">Poſito uno re<g ref="char:EOLhyphen"/>latorum poni<g ref="char:EOLhyphen"/>tur et alterum.</note> ſo that I ſhould not need to produce farther teſtimony; yet to let you ſee what a full witneſs the Goſpel is, you ſhall have it proved <hi>totidem verbis,</hi> Rom. 2. 16. <hi>In the day when God ſhall judge the ſecrets of men by Jeſus Chriſt, according to my Goſpel.</hi> 2 Tim. 4. 1. <hi>I charge thee therefore before God, and the Lord Jeſus Christ, who ſhall judge the quick and the dead at his appearing.</hi>
+            </p>
+            <p>Secondly, <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Why ſo; here paſſing by many reaſons, drawn;</p>
+            <list>
+               <item>1. From the pleaſure of God to conferre this royalty.</item>
+               <item>2. From the excellency of his perſon.</item>
+               <item>3. From the fitneſs of his ſpirit.</item>
+               <item>4. From the conveniency of his affinity.</item>
+               <item>5. From the end of his death and reſurrection.</item>
+               <item>6. From the rectitude of his viſion.</item>
+               <item>7. From the merit of his deſert, <hi>appretiativè:</hi> all which you may finde in <hi>Aquin: ſum. part</hi> 3. <hi>queſt.</hi> 59. <hi>art.</hi> 2. <hi>in concluſ.</hi>
+               </item>
+               <item>8. I ſhall only inſiſt on the equity of it; why this man ſhould be Judge, he hath ſuffered and ſuſteined infinite and unparralleld injuries and indignities.</item>
+            </list>
+            <list>
+               <item>1. He was all his life ſlandred, ſcorned, ſcoffed, perſecuted.</item>
+               <item>2. He was baſely, barbarouſly, falſely, unjuſtly, ignomi<g ref="char:EOLhyphen"/>niouſly put to death by the High Court of Juſtice, where of <hi>Pontius Pilate</hi> was Lord Preſident.</item>
+               <item>3. He hath ever ſince his reſurrection and aſcenſion been kept from his throne in Kingdomes and Conſciences.</item>
+            </list>
+            <p>1. Kingdomes.</p>
+            <list>
+               <item>1. <hi>Tartaria,</hi> puts up the Divell.</item>
+               <item>2. <hi>Turkey, Mahomet</hi> that impoſtor.</item>
+               <item>3. <hi>Jewes,</hi> their <hi>Moſes.</hi>
+               </item>
+               <item>4. <hi>Rome</hi> and the greateſt part of <hi>Europe,</hi> Antichriſt. <hi>Rev.</hi> 13. 13.</item>
+               <item>5. <hi>England,</hi> and thoſe places that have caſt off all theſe, yet doe not ſet up Chriſt, but doe in ſome ſence worſe than they, for many defie Chriſt, deny Scripture, breake Cove<g ref="char:EOLhyphen"/>nants, abuſe liberty, ſlight Magiſtrates, deſpiſe Miniſters,
+<pb n="8" facs="tcp:43752:9"/> contemne Ordinances, hate the godly, live as if hell it ſelfe were broke looſe, or as if this were the time of Sathans be<g ref="char:EOLhyphen"/>ing looſed from his thouſand yeares confinement and impri<g ref="char:EOLhyphen"/>ſonment, to be their deare and dread Soveraigne. <note place="margin">Rev. 20. 3.</note>
+               </item>
+            </list>
+            <p n="2">2. In Conſciences; how is Chriſt put by his throne in every mans heart? what ſtrange Soveraignes doe they ſerve and ſubmit to? Sin, Sathan, World.</p>
+            <q>
+               <p>
+                  <hi>Haec tria, pro trino numine.</hi>
+               </p>
+            </q>
+            <p>How daily is Chriſt crucified by ſin, <hi>Heb.</hi> 6. 6. how often is his blood ſhed profanely by unworthy receiving the Sa<g ref="char:EOLhyphen"/>crament? Therefore it is but juſt and equitable, that that man and Maſter, that ſupreame Soveraigne ſhould come to account with the world in generall, and with every perſon in particular, for theſe affronts and inſolencies, that thoſe his enemies that would not have this man to reigne over them, ſhould be brought forth and ſlaine before his face, <hi>Luk.</hi> 19. 27. It is moſt juſt that thoſe who would not be ruled by his Scepter, ſhould be ruined by his Sword.</p>
+            <p>Thirdly; <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; How ſo, or what manner of Judge he will be, ſuch a Judge as never rode Circuit in the world before.</p>
+            <p n="1">1. He is the ſupreame Judge, <hi>Rev.</hi> 19. 16. King of Kings, and Lord of Lords, the Lord Cheife Juſtice of the King of Heavens Bench, that ſheafe in <hi>Joſephs</hi> viſion, unto which all the reſt give obeyſance.</p>
+            <p n="2">2. Sole Judge, none joyned in Commiſſion with him, <hi>John</hi> 5. 22. <hi>The Father judgeth no man, but hath committed all judgement to the Son.</hi> It is true, God the Father judges <hi>autoritativè,</hi> Saints <hi>interpretativè,</hi> but Chriſt only <hi>exe<g ref="char:EOLhyphen"/>cutivè.</hi>
+            </p>
+            <p n="3">3. Univerſall Judge; <hi>Judge of all fleſh,</hi> Gen: 18. 25. and more too, <hi>orbis terrarum,</hi> of the Divels alſo, whether they be in the center of the earth, or in what ever region of the aire. Heb. 12. 23. <hi>The Judge of all.</hi> Rom. 14. 10. <hi>We ſhall all ſtand before the Judgement ſeat of Chriſt:</hi> Empe<g ref="char:EOLhyphen"/>rours, Popes, Princes, Potentates, Peaſants, all muſt hold up
+<pb n="9" facs="tcp:43752:9"/> their hands at his barre to be tried for their lives.</p>
+            <p n="4">4. An omniſcient and all-knowing Judge; he is <hi>ſagax animi,</hi> he hath <hi>notitiam legis &amp; facti,</hi> he knows every point and punctilio in the Law, every act and accent of mens ſins. <hi>Rev.</hi> 2. 2. <hi>I know thy works,</hi> whether good or bad, the time when, the place where, the parties with whom, the manner how, the end wherefore. <hi>Heb.</hi> 4. 13. <hi>All things are naked and open to him with whom wee have to doe.</hi> An alluſion to A<g ref="char:EOLhyphen"/>natomizing, wherein every veine and muſcle is ſeene. Chriſts eyes are more ſeeing and ſearching than the Sunne (that <hi>ocu<g ref="char:EOLhyphen"/>lus mundi)</hi> the worlds overſeer. <hi>Rev.</hi> 2. 23. <hi>And all the Churches ſhall know, that I am he which ſearcheth the reines and the hearts.</hi>
+            </p>
+            <p n="5">5. A powerfull Judge; no evading, nor avoiding his ſummons or ſentence, no <hi>Non eſt inventus,</hi> can be returned, if in earth, aire, ſea, or hell, Chriſt will finde him, and fetch him out. <hi>Pſal.</hi> 139. 9, 10. <hi>Wee muſt all appeare,</hi> 2 Cor. 5. 10. <hi>Nolens volens</hi> Chriſt will fetch and force every one; <hi>Heu miſer quo fugias latere er it impoſſibile, apparere intole<g ref="char:EOLhyphen"/>rabile.</hi> Anſel:</p>
+            <p n="6">6. A viſible Judge; he ſhall come not only by his power and ſpirit (as was <hi>Origens</hi> opinion) but alſo <hi>propria per<g ref="char:EOLhyphen"/>ſona,</hi> in his humane nature (though glorified) which he had here on earth. <hi>Rev.</hi> 1. 7. <hi>Behold he cometh with clouds, and every eye ſhall ſee him, and they alſo which peirced him.</hi>
+            </p>
+            <p n="7">7. A glorious Judge; hee ſhall come attended with all the pompe and power of heaven, <hi>Matth.</hi> 25. 31. The clouds ſhall be his Chariots, innumerable regiments of glorious Angels his guard, the Arch-angel his Trumpeter, to ſound an alarum to dead, and dread the hearts of all impenitent wretches. I wonder not the Sunne ſhall be turned into darkneſs that day, <hi>Matth.</hi> 24. 29. When the Sun of righ<g ref="char:EOLhyphen"/>teouſneſs ſhall diſplay his glorious rayes. <hi>Omne majus lu<g ref="char:EOLhyphen"/>men extinguit minus.</hi>
+            </p>
+            <p n="8">8. A convincing and cleering Judge, <hi>Jude</hi> 15. <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a Forenſicall word uſed in Courts of judicature, ſignifying to prove a crime againſt one cleerely, evidently, unanſwera<g ref="char:EOLhyphen"/>bly, that nothing can be objected againſt the proofe; peo<g ref="char:EOLhyphen"/>ple
+<pb n="10" facs="tcp:43752:10"/> ſhall ſet their hands and ſeales to their own execu<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="9">9. A righteous Judge; 2 <hi>Tim.</hi> 4. 8. <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the only righteous Judge, who is not, cannot be mo<g ref="char:EOLhyphen"/>ved, <hi>nec prece, nec praetio,</hi> no ſparing, no partiality, no favour, no affection, no feare, but <hi>ſuum cui<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>. Rom.</hi> 2. 6. <hi>Who will render to every man according to his deeds</hi> and deſerts.</p>
+            <p n="10">10. A ſpeedy and expeditious Judge.</p>
+            <list>
+               <item>1. Hee will come unexpectedly.</item>
+               <item>2. Hee will have done ſuddainely.</item>
+            </list>
+            <p n="1">1. Hee comes unexpectedly. Chriſts coming is compa<g ref="char:EOLhyphen"/>red to a ſnare, <hi>Luke</hi> 21. 35. how quickly is the poore bird in a ſnare when it little expects it, <hi>Fiſtula dulce canit volu<g ref="char:EOLhyphen"/>crem dum decipit auceps.</hi> It is likewiſe ſet forth from a theifs coming in the night, 1 <hi>Theſ.</hi> 5. 1, 2.</p>
+            <q>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>t jugulent homines ſurgunt de nocte latrones.</hi> 
+                  <note place="margin">Juvenal:</note>
+               </p>
+            </q>
+            <p>When men are faſt aſleepe, and little dream of them; yea our Saviour tells us he ſhall come as the flood upon the old world, <hi>Matth.</hi> 24. 37, 38. in the ſpring time when things were in their prime and pride, when nothing was feared or expected.</p>
+            <p n="2">2. Hee will diſpatch ſuddainely; there will be no need of Empannelling Juries, ſwearing witneſſes, pleading of Counſels, but every one ſhall be <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, every mans conſcience ſhall be witnes, Jury, Judge, <hi>Quà fiat ut</hi> 
+               <note place="margin">Aug.</note> 
+               <hi>cui<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> opera ſua bona vel mala cuncta in memoriam revocentur, &amp; mentis intuitu mira celeritate cernantur.</hi> Matth. 22. 12, 13. <hi>Friend how cameſt thou in, not having on thy wedding gar<g ref="char:EOLhyphen"/>ment? and he was ſpeechleſs, and he ſaid, take him, and bind him hand and foot, and caſt him into utter darkneſs, where ſhall be weeping and gnaſhing of teeth.</hi>
+            </p>
+            <p n="11">11. A dreadfull and terrible Judge; one that comes in fury, 2 <hi>Theſ.</hi> 2. 8. <hi>in flaming fire, taking vengeance on them that know not God, and obey not the Goſpel of our Lord Jeſus Chriſt.</hi> Rev. 6. 16, 17. <hi>And ſaid to the Mountaines and Rocks, fall on us and hide us from the face of him that ſits on</hi>
+               <pb n="11" facs="tcp:43752:10"/> 
+               <hi>the Throne, and from the wrath of the Lambe, for the great day of his wrath is come, and who ſhall be able to ſtand?</hi>
+            </p>
+            <p n="12">12. The ultimate and laſt Judge; after him never comes another Judge; Wee read <hi>Exit tyrannus, regum ultimus:</hi> yet it may be poſſible, yea probable that another may come af<g ref="char:EOLhyphen"/>ter him, notwithſtanding that Propheſie.</p>
+            <q>
+               <p>
+                  <hi>Mars, Puer, Alecto, Virgo, Vulpes, Leo, Nullus.</hi>
+               </p>
+            </q>
+            <p>But after Chriſt, no more aſſize or Seſſions, Judge or Jury: the ſtage of this world once burnt downe like <hi>Jeru<g ref="char:EOLhyphen"/>ſalems</hi> Temple, it can never be built up againe: in this ſence Chriſt is an eternall Judge, becauſe his ſentence ſtands, never to be revoked to all eternity.</p>
+            <p>And thus have I done with the explicatory, to come to the applicatory part, wherein I ſhall be ſomewhat longer, for it is my intention this day to be like a <hi>Jewes</hi> debter, to give more for uſe than the principle comes to.</p>
+            <p>This truth will be very uſefull and profitable for a ſix<g ref="char:EOLhyphen"/>fold end: it is</p>
+            <list>
+               <item>1. A Taper, to inlighten our underſtandings by infor<g ref="char:EOLhyphen"/>mation.</item>
+               <item>2. A Touchſtone, to try our ſpirits by examination.</item>
+               <item>3. A Trumpet, to alarum and awaken all ſupine and ſe<g ref="char:EOLhyphen"/>cure ſinners by terrification.</item>
+               <item>4. A Fire, to kindle and inflame the affections of the god<g ref="char:EOLhyphen"/>ly by exhortation.</item>
+               <item>5. A Starre, to guide us to the uſe of meanes by dire<g ref="char:EOLhyphen"/>ction.</item>
+               <item>6. A Cordiall, to comfort all drooping languiſhing ſpi<g ref="char:EOLhyphen"/>rits by conſolation.</item>
+            </list>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. It informes us eight things.</p>
+            <p>1 <hi>Information:</hi> Is to ſhew us the vanity &amp; folly of thoſe people, that either think, or ſay, That thoſe Miniſters who ſpend their time in preaching judgement, ſhew they want judgement in their preaching; was not <hi>Paul</hi> a judicious preacher? yet he here before the ſage and ſubtile Philoſo<g ref="char:EOLhyphen"/>phers, preſſes repentance upon them from the conſidera<g ref="char:EOLhyphen"/>tion
+<pb n="12" facs="tcp:43752:11"/> of this Judge and Judgement; yea, when he preached before the Judges, he preached ſuch a thundring Sermon of judgement, that he made the Judges heart to tremble, <hi>Act.</hi> 24. 25. the Judge ſtood ſo arraigned at the barre of his owne conſcience, that you would have thought the Judge had been the malefactor, and the priſoner the Judge. I am confident there never was a time that more cal'd for the preaching of the certainty of judgement, and the ſeve<g ref="char:EOLhyphen"/>rity of the Judge, then theſe times doe. Of which I may truely ſay with him, moſt people <hi>metum et memoriam ultimi</hi> 
+               <note place="margin">
+                  <hi>Aug:</hi> Serm. 120. <hi>de temp.</hi>
+               </note> 
+               <hi>judicij amiſêrunt,</hi> never was there a time when this ſubject was leſſe beleeved, or leſſe beloved. Certainly, if <hi>Chryſo<g ref="char:EOLhyphen"/>ſtome</hi> were (according to his then fancy) to preach to the whole world, he would leave his old text, (of <hi>Pſal.</hi> 4. 2. <hi>How long will you love vanity?)</hi> and preach Chriſts judicia<g ref="char:EOLhyphen"/>ry power and proceedings, againſt carnall, formall, and hy<g ref="char:EOLhyphen"/>pocriticall Goſpellers; it were very needfull to preach on this ſubject every Sermon, to print every Sermon that is preached, to fill Churches, ſhops, ſtalls, houſes, holes with them, to dog curſed miſcreants (as that good man did his Atheiſtical ſon <hi>Junius,</hi> with Bibles) untill they are appre<g ref="char:EOLhyphen"/>hended with this Hue and Cry. But to cloſe and conclude, there is enough in that text to anſwer all cavills and ſcru<g ref="char:EOLhyphen"/>ples. <hi>Act.</hi> 10. 42. <hi>And he commanded us to preach unto the people, and to teſtifie that it is he which was ordeined of God to be the Judge of quicke and dead.</hi> If Chriſts coming be ſo nigh as 1656. as was ſtrongly (though ſtrangely) aſſer<g ref="char:EOLhyphen"/>ted by an admired Rabbi at <hi>Pauls</hi> not long ſince, as you may finde it quoted in the Atheiſt Bible, I meane in <hi>Lillyes</hi> Almanacke; then ſurely it is high time to alarum dead and drowſie ſinners by the Goſpels Trumpet, before they are ſummoned by the Archangels Trumpet.</p>
+            <p>
+               <hi>Inform.</hi> 2. That few perſons will be found judgement-proof when they hold up their hands at the Bar before this ſo rigid and ſo righteous a Judge.</p>
+            <p>Moſt men and women will not know (as <hi>Bellizarius</hi> 
+               <note place="margin">Procop.</note> once told the proud Embaſſadors of the <hi>Goths)</hi> where to hide their heads.</p>
+            <pb n="13" facs="tcp:43752:11"/>
+            <p> Hear that dreadfull and direfull text able to ſtrike you dead for fear, which I take with learned <hi>Diodate,</hi> to be un<g ref="char:EOLhyphen"/>derſtood of this Judge and judgement, <hi>Rev.</hi> 6. 12, 13, 14, 15, 16, 17. <hi>And I beheld when he had opened the ſixth Seal, and lo, there was a great Earth-quake, and the Sun became black as Sackcloth of haire, and the Moon became as blood. And the ſtars of heaven fell unto the earth, even as a Fig-tree caſteth her untimely Figs when ſhe is ſhaken of a mighty wind. And the heaven departed as a ſcroll, when it is rolled together. And every Mountain and Iſland were moved out of their pla<g ref="char:EOLhyphen"/>ces. And the Kings of the earth, and the great men, and the rich men, and the chief Captains, and the mighty men, and every bond-man, and every free-man hid themſelves in the dens, and in the rocks of the mountains; and ſaid to the moun<g ref="char:EOLhyphen"/>tains and rocks, Fall on us, and hide us from the face of him that ſitteth on the Throne, and from the face of the Lamb. For the great day of his wrath is come, and who ſhall be able to ſtand?</hi>
+            </p>
+            <p>Thoſe men that when on earth were not afraid of the noyſe of a Lion, are now affrigted at the voice of a Lamb. Thoſe before whoſe wrath none were able to ſtand, them<g ref="char:EOLhyphen"/>ſelves now are not able to ſtand before the wrath of Chriſt. But not to inſiſt on generals, to deſcend to parti<g ref="char:EOLhyphen"/>cular <note place="margin">Generalia non pungunt.</note> perſons, as they are expreſſed and implied in this text.</p>
+            <p n="1">1. To begin with Miniſters (that you may ſee I am not partiall) do we make ſuch full proof of our Miniſtery, as <note place="margin">2 Tim. 4. 5.</note> that we may be judgement-proof? How few of us that are able Miniſters of the Spirit, 2 <hi>Cor.</hi> 3. 6. That ſtudy to approve our ſelves to God, workmen that need not to be aſhamed, rightly dividing the word of truth, 2 <hi>Tim.</hi> 2. 15. That preach Chriſt crucified, 1 <hi>Cor.</hi> 1. 23. that make ma<g ref="char:EOLhyphen"/>nifeſt the myſtery of Chriſt, as we ought to ſpeak, <hi>Col.</hi> 4. 4. not with enticing words of mans wiſdom, but in the de<g ref="char:EOLhyphen"/>monſtration of the Spirit, and of power, 1 <hi>Cor.</hi> 2. 4. that cry aloud and ſpare not, and lift up our voyces like trumpets, and ſhew the people their tranſgreſſion, and the houſe of <hi>Jacob</hi> their ſins, <hi>Iſai.</hi> 58. 1. That make a difference and di<g ref="char:EOLhyphen"/>ſtinction
+<pb n="14" facs="tcp:43752:12"/> in our praying and preaching, and take forth the pretious from the vile, <hi>Jerem.</hi> 15. 19. that will not give the childrens bread to doggs. In a word, that can wade through honour and diſhonour, evill report and good re<g ref="char:EOLhyphen"/>port, 2 <hi>Cor.</hi> 68. not puft up with the one, nor dejected by the other. But to uſe <hi>Pompey's</hi> verſes,</p>
+            <q>
+               <l>
+                  <hi>Non me videre ſuperbum </hi>
+               </l>
+               <l>
+                  <hi>Proſpera fatorum, nec fractum adverſa videbunt.</hi>
+               </l>
+            </q>
+            <p>
+               <hi>Proh dolor!</hi> How few <hi>Luthers</hi> ſhall you find that weigh <note place="margin">Satanas ſit Lu<g ref="char:EOLhyphen"/>therus, modo Chriſtus regnet.</note> nor value not their names! <hi>Ridleies</hi> that repent of ſpending too much of their time at <hi>Cheſſe-playing! Ignatius's,</hi> ſo ſtu<g ref="char:EOLhyphen"/>dious and yet ſo pious, that every time they hear the clock ſtrike, ſay, there is one hour more for them to anſwer for! <hi>Chryſoſtom's</hi> that had rather have their bodies torn aſun<g ref="char:EOLhyphen"/>der with wild beaſts, than give Chriſts body to be torn aſun<g ref="char:EOLhyphen"/>der by men worſe than wild beaſts! <hi>Auguſtin's</hi> that deſire God may finde them preaching or praying in that day. <hi>Cyprians,</hi> whoſe thoughts of the day of judgement, make them forget the day of their martyrdome. <hi>Nazian<g ref="char:EOLhyphen"/>zens,</hi> whoſe thoughts of their laſt accounts dry up their marrow, and waſt their bones. Though I would not make that doubt which <hi>Chryſoſtome</hi> did in a Sermon of his to the Miniſters, Whether any of them could poſſibly be ſaved? yet this I may ſafely ſay, that every one of us have great cauſe to fear (who have not preached to others, or not preached to others as we ought) that we ſhall be found caſt-awayes, 1 <hi>Cor.</hi> 9 27.</p>
+            <p n="2">2. Kings and ſupream Magiſtrates who are mentioned in the text, how few of them are <hi>Patres Patriae,</hi> as the Heathen called them, and as the holy Ghoſt explains it, <hi>Iſai.</hi> 4 23. Nurſing-fathers, whoſe care of, and compaſſion to <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>quaſi</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> their people, is the ſame with Fathers to their children, that impoveriſh them not by taxes, exciſes, oppreſſions, but en<g ref="char:EOLhyphen"/>deavour to enrich them, counting their peoples wealth their beſt treaſury; as King <hi>James</hi> gives advice to his ſon Prince <hi>Henry</hi> in his book called <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <pb n="15" facs="tcp:43752:12"/>
+            <p> 
+               <hi>Hinc illae lachrymae:</hi> Moſt of ſupream Rulers are as <hi>Pliny</hi> ſpake of the Roman Emperours, <hi>Nomine Dii, natura Dia<g ref="char:EOLhyphen"/>boli,</hi> monſters not men, murtherers not Magiſtrates; witneſs <hi>Saul,</hi> who when he had forfeited his Kingdome by ſparing <hi>Agag,</hi> how doth he hunt <hi>David</hi> as a Partridge in the moun<g ref="char:EOLhyphen"/>tains, ſlayes the innocent Prieſts, runs to a Witch at <hi>Endor.</hi>
+            </p>
+            <p>Witneſs <hi>Herod,</hi> who preferred one <hi>Coranto</hi> of that Mini<g ref="char:EOLhyphen"/>on <hi>Herodias</hi> daughter, before the pretious life of <hi>John Bap<g ref="char:EOLhyphen"/>tiſt,</hi> of whoſe godlineſſe he was convinced in his own con<g ref="char:EOLhyphen"/>ſcience. Beſides this, our <hi>Engliſh</hi> Chronicles afford us too much ſad matter for this ſubject; witneſs <hi>Henry</hi> 4. and <hi>Richard</hi> 3 I profeſs I have often admired at the madneſs and folly of many, who will jeopardize their eſtates, lives and ſouls for ſuch perſons, who came to their places by unjuſt depoſings, poyſonings, perjuries, murder, inceſt; who car<g ref="char:EOLhyphen"/>ried themſelves in their places with pride, prophaneſs, luſt and luxury, tyranny, oppreſſion, exaction, their lives being the beſt comment on that text, <hi>Dan.</hi> 4. 17. <hi>God ſetteth over Kingdomes the baſeſt of men.</hi> God gives the kingdomes of the earth to them he never intends to give the Kingdom of heaven. To conclude this truth with that meſſage which godly Mr. <hi>Buchanon</hi> ſent to King <hi>James</hi> when he lay a dy<g ref="char:EOLhyphen"/>ing: <hi>Remember me to him, and tell him, I am going to a place where few Kings come.</hi> Kings are as rare meat in heaven, as Veniſon in poor mens kitchins, as it is in the <hi>Dutch</hi> Pro<g ref="char:EOLhyphen"/>verb.</p>
+            <p n="3">3. Judges, how few of them that find others not judge<g ref="char:EOLhyphen"/>ment-proof, will be found judgement-proof themſelves? they are Kings creatures, who as their maſters and makers are uſually bad, ſo they are ſeldome good. <hi>Zeph</hi> 3. 3. <hi>Her Princes within her are roaring Lions, her Judges are evening Wolves.</hi> Where Princes are Lions for their power, and roaring for their prey, there likewiſe are the Judges Wolves <hi>(crudelium emblemata)</hi> they fleece, they flaw, they feed, they feaſt themſelves upon the poor Clients, as Wolves do upon ſheep and Lambs, and they are evening Wolves that have had no prey, very ravening and rapacious, <hi>Luke</hi> 18. 2.
+<pb n="16" facs="tcp:43752:13"/> Our Saviour tells us there was in a Citie a Judge that feared not God nor regarded man: Oh how happy had the world been if there had been but one Judge thus corrupted, and one Citie thus abuſed! but alas! how have all Kingdomes, Cities, Counties been peſtered with multitudes of ſuch Judges as have neither piety towards God, nor pitie to<g ref="char:EOLhyphen"/>wards man; Divine writ, humane Hiſtories; yea, our own Chronicles abound with <hi>Exempli gratia's</hi> of them, <hi>Pſalm</hi> 82. 2, 3, 4, 5. <hi>How long will yee judge unjuſtly, and accept the perſons of the wicked? Defend the poor and fatherleſs; do juſtice to the afflicted and needy, deliver the poor and needy, rid them out of the hand of the wicked. They know not, neither will they underſtand, they walk on in darkneſs; all the founda<g ref="char:EOLhyphen"/>tions of the earth are out of courſe.</hi>
+            </p>
+            <p>What ſhould I trouble you with them, who troubled o<g ref="char:EOLhyphen"/>thers while they lived, with injuſtice, oppreſſion; as <hi>Felix</hi> who looked for a bribe of <hi>Paul, Acts</hi> 24. 25, 26, 27. <hi>Ana<g ref="char:EOLhyphen"/>nias</hi> who commanded <hi>Paul</hi> to be ſmitten, <hi>Acts</hi> 23. 2, 3. <hi>Gallio</hi> who ſuffered <hi>Paul</hi> to be beaten, and cared not for it, <hi>Acts</hi> 18. 17. But eſpecially above all, the Lord chief Ju<g ref="char:EOLhyphen"/>ſtice of unjuſt Judges <hi>(Pilate)</hi> who was warned of his wife, knew that out of malice the Jewes had delivered Chriſt, profeſſed upon all he heard, and had examined, he found no fault in him; yea, he had terrors of conſcience upon him that made him afraid, and yet to continue <hi>Caeſars</hi> friend, he is an enemy to Chriſt, juſtice and his own ſoul, <hi>John</hi> 19. 6, <note place="margin">Matth. 27. 18, 19.</note> 8, 12, 13, 14, 15.</p>
+            <p>As for humane Hiſtories, Surely <hi>Perſia</hi> was peſtred with multitudes of ſuch Judges, that <hi>Cambyſes</hi> their King was forced to put <hi>Silanes</hi> to death, and command his skin to be pluckt off, and to be nailed to the Tribunall, and put <hi>Olanes</hi> his ſon to be ſet on his Fathers Throne, that both he and all other Judges might ever after be afraid to be unrighte<g ref="char:EOLhyphen"/>ous Judges. Surely <hi>Rome</hi> was much infected, that <hi>Alex<g ref="char:EOLhyphen"/>ander</hi> was forced according to his Sur-name, to be <hi>Severus,</hi> 
+               <note place="margin">Lamprid. in Sever.</note> to ſmother <hi>Taurinus</hi> a corrupt Judge with ſmoak, comman<g ref="char:EOLhyphen"/>ding the <hi>Praeco</hi> to cry, <hi>Fumo pereat, qui fumum vendidit.</hi>
+            </p>
+            <p>But our hiſtories afford us too too many inſtances of the
+<pb n="17" facs="tcp:43752:13"/> bribery, injuſtice, partiality of Judges. I ſhall read their charge in the words of the Author, <hi>Britannia habet Judices</hi> 
+               <note place="margin">
+                  <hi>Gild. de excid. Brit. orth. pag.</hi> 1010.</note> 
+               <hi>protegentes, &amp;c.</hi> Britain hath Judges protecting (but to wit) protecting the guilty, robbers, adulterers, ſwearers, for<g ref="char:EOLhyphen"/>ſwearers. I am loath <hi>ulcus refricare,</hi> elſe I could eaſily prove, that one of the greateſt cauſes of our late miſeries, was the corruption of our Judges. But <hi>diſ-gratias</hi> a Writ of eaſe is iſſued out againſt ſuch Judges.</p>
+            <p n="4">4. Lawyers, how few of them that truly plead the cau<g ref="char:EOLhyphen"/>ſes of their Clients without fraud or falſhood: How few of them do (as <hi>Pericles</hi> did to his gods) pray to the Lord to ſet a watch before their mouth, and to keep the door of their lips. How do they make the Law (which is the Wall to fence off the people propriety) a broken, bowing, bending Wall, ſometime to this ſide, ſometime to that, to this ſenſe and that ſenſe, as it will at that time beſt fit their turns; How few but make</p>
+            <q>
+               <p>
+                  <hi>Candida de nigris, &amp; de candentibus atra.</hi>
+               </p>
+            </q>
+            <p>Evill, good; and good, evill; make darkneſs light, and light <note place="margin">Iſai. 5. 2.</note> darkneſs. How few but parget over rotten cauſes with the made mortar of the Law, whereby they appear white and ſound. I have often admired why the Lawyer in behalf of his fraternity, took diſtaſte at our Saviours reproving the Scribes and Phariſees for being graves, that which appears not, and the men that walk over them are not aware of them; and all that ſatisfies me is, that his conſcience flew in his face, and accuſed him that he and they were thoſe graves, that with flouriſh't words, as with graſſe, did cover rotten and ſtinking carcaſſes and Cauſes, of which Juries were not aware: they care not what cauſe they plead in, nor who the Client is they plead for, nor who the party they <note place="margin">Acts 24. 12.</note> plead againſt. <hi>Aperi burſam, &amp; ego aperiam buccam.</hi> If the client will open his purſe mouth wide for his Lawyer, his Lawyer wil open his mouth wide for his Client; and ſo make good that ſad and ſtrange ſaying of that famous Lawyer <hi>Neveſſan,</hi> He that will not venture his body, will
+<pb n="18" facs="tcp:43752:14"/> never be valiant; and he that will not venture his ſoul will never be wealthy.</p>
+            <p n="5">5. Souldiers, how degenerated are they from the firſt Army of believers that was raiſed as we read of in the Scripture, <hi>Gen.</hi> 14. 14. <hi>Abraham</hi> Captain General of all thoſe forces that reſcued <hi>Lot.</hi> Where take notice of two particulars.</p>
+            <p n="1">1. The Generall doth not detain, nor ſuffer to be detai<g ref="char:EOLhyphen"/>ned any of <hi>Lots,</hi> or of the King of <hi>Sodoms</hi> goods: It's a Mar<g ref="char:EOLhyphen"/>tiall law made ſince <hi>Abrahams</hi> time, that goods of their own party taken by the enemy, and retaken by their own forces, ſhould loſe their propriety. See v. 16.</p>
+            <p n="2">2. He doth not plead nor pretend an abſolute conqueſt, he would have ſmiled at ſuch a Riddle, yea hiſt at ſuch a para<g ref="char:EOLhyphen"/>dox, that thoſe who went out with him in their perſons, or ſtaid at home, and ſent to him their purſes, and ſent up to heaven for him their prayers, ſhould be accounted a con<g ref="char:EOLhyphen"/>quered nation. <hi>Caeſar</hi> wiſhed he had ſuch Souldiers as were in <hi>Alexanders</hi> dayes; we may ſay, oh that we had ſuch Souldiers as were in <hi>Abrahams</hi> dayes. But we find the Poet a Prophet,</p>
+            <q>
+               <l>Nulla fides, pietaſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> viris qui caſtra ſequuntur, <note place="margin">
+                     <hi>Lucan. lib.</hi> 10. <hi>Bell. civil.</hi>
+                  </note>
+               </l>
+               <l>Venaleſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> manus: ibi fas, ubi maxima merces.</l>
+            </q>
+            <p>Luke 3. 14. When the Souldiers had ſome deſire to know of <hi>John Baptiſt,</hi> what to do that they might be ſaved, he tells them, that they muſt do violence to no man, neither accuſe any falſly, and be content with their wages. How are theſe Rules inverted by moſt Souldiers? they offer vio<g ref="char:EOLhyphen"/>lence to every man, acccuſe any man falſly, are not con<g ref="char:EOLhyphen"/>tent with their pay, but will have plunder and free quarter into the bargain. How hard a matter would it be to anſwer one that ſhould ask this queſtion, <hi>Cui bono</hi> do Souldiers ſerve? I know ſome will be ready to anſwer, to fight the Lords battails, to withſtand forraign invaſions, to ſubdue inteſtine rebellions, and to preſerve Princes in their Royalties, Parliaments in their Priviledges, and peo<g ref="char:EOLhyphen"/>ple in their Liberties. I cannot deny but that they may do
+<pb n="19" facs="tcp:43752:14"/> ſuch things, and muſt do, or elſe cannot be able to juſtifie the lawfulneſs of their calling. Yet for the moſt part, they ſerve for nothing elſe but to maintaine Princes in their Ty<g ref="char:EOLhyphen"/>ranny and oppreſſion, Parliaments in feare and ſubjection, people in vaſſalage and ſlavery. I read of <hi>Xerxes,</hi> that view<g ref="char:EOLhyphen"/>ing almoſt an innumerable Army of men, fell on weeping, ſaying, <hi>Where will all theſe men be within an hundred yeares?</hi> If he thought that for his ſake (or rather ſin) they ſhould be in hell, it might well make him weepe.</p>
+            <p n="6">6. Rich men: How few of them that are rich towards God, <hi>Luk.</hi> 12. 21. Rich in faith, <hi>James</hi> 2. 5. Rich in good works, 1 <hi>Tim.</hi> 6. 18.</p>
+            <q>
+               <p>
+                  <hi>Inopem ſua copia fecit.</hi>
+               </p>
+            </q>
+            <p>Their plenty in temporalls, and poverty in ſpiritualls. Riches for the moſt part are not ladders to lift mens ſouls to heaven, but to let them downe to hell: Riches to moſt men are as wind and quill to bladders, puff them and ſwell them with prophaneneſs; they make gold their God, and worſhip that in the ſtamp, which they abhor to do in the ſtatue. Theſe are ſuch as the Apoſtle could not mention with dry eyes, <hi>Phil.</hi> 3. 18, 19. Their minds are ſo taken up with earth, as they have no leiſure (nor love) to looke after heaven. As the Duke <hi>d' Alva</hi> told <hi>H.</hi> 4. of <hi>France,</hi> asking him whither he had obſerved the late great Ecclipſe: they are ſo taken up with minding their Hawks and hounds, and worſe employments, that they have no time to mind God, Chriſt, grace, poore, nor their own immortall ſoules. See an inſtance in that rich man, <hi>Luk.</hi> 16. 19. Here is mind<g ref="char:EOLhyphen"/>ing back and belly, no praying, reading, ſinging, or relei<g ref="char:EOLhyphen"/>ving <hi>Lazarus,</hi> &amp;c. Oh that all rich men would but ſeri<g ref="char:EOLhyphen"/>ouſly weigh two places of Scripture, they are able to make their hearts tremble; <hi>Math.</hi> 19. 23, 24. <hi>Then ſaid Jeſus unto his Diſciples, verily I ſay unto you, that a rich man ſhall hardly enter into the kingdome of heaven. And again I ſay unto you, It is eaſier for a Camel to goe thorow the eye of a nee<g ref="char:EOLhyphen"/>dle, then for a rich man to enter into the kingdome of God.</hi>
+               <pb n="20" facs="tcp:43752:15"/> 
+               <hi>Philip</hi> was wont to ſay, <hi>An Aſſe laden with gold would enter any City-gates;</hi> I ſay, not enter the City-gates of hea<g ref="char:EOLhyphen"/>ven. <hi>Luk</hi> 6. 14. <hi>Woe unto you that are rich, for you have received your conſolation.</hi> Rich men uſually have their hea<g ref="char:EOLhyphen"/>ven on earth. Conſolation here, and deſolation here<g ref="char:EOLhyphen"/>after. <note place="margin">Luk. 16. 25.</note>
+            </p>
+            <p n="7">7. The ordinary and Common ſort of people, bond and <note place="margin">Praeter pauciſ<g ref="char:EOLhyphen"/>ſimos quoſdam qui mala fugi<g ref="char:EOLhyphen"/>unt, quid eſt a<g ref="char:EOLhyphen"/>liud penè caetus Christi norum, quàm ſentina vitiorum.</note> free, as in the Text; who live more like Bruits then men, Cretians then Chriſtians. We may ſay of moſt of them as <hi>Plato</hi> ſaid of the <hi>Argentines,</hi> they live as if they ſhould ne<g ref="char:EOLhyphen"/>ver dye, and come to judgement for all their oathes, whore<g ref="char:EOLhyphen"/>domes, coſenages, &amp;c.</p>
+            <q>
+               <l>Heu vivunt homines<g ref="char:punc">▪</g> tanquam mors nulla ſequatur,</l>
+               <l>Seu velut infernus fabula vana foret. <note place="margin">Salv. de Pro.</note>
+               </l>
+            </q>
+            <p>They call and count judgement a bug-beare to ſcare chil<g ref="char:EOLhyphen"/>dren; <hi>They have made a Covenant with death, and with hell are they at agreement,</hi> Iſa. 28. 15. Tell them of an Aſſize on earth, wherein they are much concerned, either for land or life, they like the Devills believe and tremble, <hi>James</hi> 2. 19. But tell them of an Aſſize in the aire, wherein they are moſt concern'd for their eternall life, they little believe it, and leſs tremble at it. <hi>David</hi> in <hi>(Pſal.</hi> 14. 1, 2, 3. <hi>The fool hath ſaid in his heart, There is no God: they are corrupt, they have done abominable works; there is none that doth good. The Lord looked downe from heaven upon the children of men, to ſee if there were any that did underſtand and ſeeke God. They are all gone aſide, they are all together become filthy, there is none that doth good, no not one.)</hi> And <hi>Paul</hi> (Rom. 3. 13, 14, 15, 16, 17, 18. <hi>Their throat is an open ſepulchre, with their tongues they have uſed deceit, the poyſon of Aſps is under their lips, whoſe mouth is full of curſing and bitterneſs; Their feet are ſwift to ſhed blood; Deſtruction and miſery are in their wayes; And the way of peace have they not known; There is no feare of God before their eyes.)</hi> joyned together, give a moſt exact deſcription of ſuch perſons as theſe are. It is as true of our time, as true in the time.</p>
+            <pb n="21" facs="tcp:43752:15"/>
+            <q>
+               <l>Multis annis jam tranſactis,</l>
+               <l>Nulla fides eſt in pactis,</l>
+               <l>Mel in ore, verba lactis,</l>
+               <l>Fel in corde, fraus in factis.</l>
+            </q>
+            <p>I may partly Engliſh it in our Singing <hi>Pſalms.</hi>
+            </p>
+            <q>
+               <l>Help Lord, for good and godly men,</l>
+               <l>Doe periſh and decay;</l>
+               <l>And faith and truth from worldly men,</l>
+               <l>Is parted clean away.</l>
+               <l>Who ſo doth with his neighbour talk,</l>
+               <l>His talk is all but vaine;</l>
+               <l>For every man bethinketh how,</l>
+               <l>To flatter, lye and faine.</l>
+            </q>
+            <p>Luk. 13. 24. <hi>Strive to enter into the ſtrait gate:</hi> moſt are ſo far from ſtriving to get into heaven, that they ſtrive to get into hell; they ride poſt to get thither firſt, for feare there ſhould be no roome for them in hell, the only place of honour and happineſs in their opinion. Alas! whoſe faces bluſh not, eyes weep not, hearts bleed not (if any ſparks of good in them) to ſee the moſt of poor people like the coun<g ref="char:EOLhyphen"/>try about <hi>Eugubium, Quo magis aliena divitijs, eò magis ex<g ref="char:EOLhyphen"/>uberat vitijs;</hi> the more poore, the more profane; the more barren, the more baſe. If they, <hi>John</hi> 7. 49. did condemne the rabble to be accurſed, becauſe they did not know the Law; then may we ſafely miſtruſt them, that neither know the Law, nor believe or obey the Goſpel.</p>
+            <p>
+               <hi>Inform.</hi> 3. The reaſon why godly men and Miniſters are ſo much diſcontented, yea <note n="*" place="margin">2 Cor. 5. 13. <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>inſanimus. Beza.</hi>
+               </note> mad; when they ſee any injury or indignity offered to the perſon, offices, government of the Lord Jeſus Chriſt. Oh how (ſay they) ſhall we be able to look the Lord Jeſus Chriſt in the face, when he comes as a Judge, if we ſuffer or endure it. For Chriſt to have juſt oc<g ref="char:EOLhyphen"/>caſion to ſay to any of them, as <hi>Abſolom</hi> to <hi>Huſhai</hi> about <note place="margin">2 Sam. 16. 17.</note> 
+               <hi>David; Is this thy kindneſs to thy Friend?)</hi> would be a tor<g ref="char:EOLhyphen"/>ment as bad as hell; and therefore they cannot beare the
+<pb n="22" facs="tcp:43752:16"/> leaſt wrong to Chriſt. <hi>Servetus</hi> condemned <hi>Zwinglius</hi> for harſhneſs and raſhneſs; but <hi>Zwinglius</hi> anſwered; <hi>In alijs</hi> 
+               <note place="margin">Epiſt. ad Ser<g ref="char:EOLhyphen"/>vet.</note> 
+               <hi>manſuetus ero, in blaſphemijs in Chriſtum non ita.</hi> 
+               <note n="a" place="margin">Injuriam con<g ref="char:EOLhyphen"/>tra me patienter <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ult, contra Chriſtum ferre non potui.</note> I can beare any wrong done to my ſelfe, but againſt Chriſt I am not able, ſaith <hi>Jerome.</hi> 
+               <note n="b" place="margin">
+                  <hi>Inv<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>niar ſane ſuperbus, modo impij ſidentij no<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> arguar, dum dominus patitur.</hi> Luth. Epiſt. ad Staup.</note> Let me be accounted proud and paſſionate, ſo I be not found guilty of ſinfull ſilonce, when the cauſe of Chriſt ſuffers. <hi>Luther.</hi> Sometimes to be dumb in Chriſts cauſe, is as bad, as at ſometimes to deny Chriſts cauſe, yea indeed dumbneſs is deniall; and they know what ſad conſequences will follow thereupon, <hi>Matth.</hi> 10. 33.</p>
+            <p>
+               <hi>Inform.</hi> 4. It renders the reaſon why the godly ſo little weigh and value the judgements of men, becauſe <hi>tbey eye</hi> the judgement of Chriſt. What cares <hi>Joſeph,</hi> though he be accounted incontinent; <hi>Naboth</hi> a blaſphemer; <hi>Job</hi> an hypo<g ref="char:EOLhyphen"/>crite; <hi>Michaiah</hi> the troubler of <hi>Iſrael; Paul</hi> a peſtilent fellow; <hi>Luther</hi> the Trumpeter of rebellion: they (and all other believers) doe ſay in <hi>Pauls</hi> words; <hi>With us it is a ve<g ref="char:EOLhyphen"/>ry</hi> 
+               <note place="margin">
+                  <hi>Juſii non hu<g ref="char:EOLhyphen"/>mana judicia ſed aeterm ju<g ref="char:EOLhyphen"/>dicis examen aſpiciunt, et i<g ref="char:EOLhyphen"/>deo cum Paulo derogantium verba deſpici<g ref="char:EOLhyphen"/>unt.</hi> Anſ. Acts &amp; Mon.</note> 
+               <hi>ſmall thing, that we ſhould be judged of mans judgement, he that judgeth us is the Lord,</hi> 1 Cor. 4. 3, 4. They well know how erroneous the men of the world are in their judgement, they call white, blacke, and account cyphers figures, and figures cyphers. <hi>Thou art an hereticke,</hi> ſaid <hi>Woodroſſe</hi> the Sheriffe to M<hi rend="sup">r</hi> 
+               <hi>Rogers</hi> the Protomartyr in Q. <hi>Maries</hi> dayes, <hi>That ſhall be knowne</hi> (ſaid he) <hi>at the day of Judgement.</hi> Rom. 2. 2. We know Gods judgement is ac<g ref="char:EOLhyphen"/>cording to truth,</p>
+            <p>
+               <hi>Inform.</hi> 5. What good ground all perſons have to get into favour with Jeſus Chriſt, who is to ſit Judge upon the life and death of their bodies and ſoules for all eternity. <hi>Pro.</hi> 29. 26. <hi>Many ſeeke the Rulers favour:</hi> how do men deſire to ingratiate themſelves into the favour of the Judge, though but of <hi>Niſi prius,</hi> if they have but an action of the caſe to try, what ſuings, ſollicitations, preſents? how much more to this Judge, who when he hath killed the body, is able to caſt ſoule and body into hell-fire, <hi>Matth.</hi> 10. 28.</p>
+            <p>
+               <hi>Inform.</hi> 6. How to demeane our ſelves under all wrongs, either nationall from publique Magiſtrates, or particular from private perſons, patiently waite upon this righteous
+<pb n="23" facs="tcp:43752:16"/> Judge. <hi>Eccleſ.</hi> 5. 8. <hi>If thou ſeeſt the oppreſſion of the poore, and violent perverting of judgement in a Province, marvell not</hi> (murmure not) <hi>at the matter; For he that is higher than the higheſt regardeth;</hi> yea ſo regardeth, that he will right and revenge all thy unjuſt and injurious ſentences. <hi>James</hi> 5. 6, 7. <hi>You have condemned and killed the juſt, and he doth not reſiſt you, be patient therefore brethren untill the coming of the Lord.</hi> Oh remember <hi>John Huſſe, Jerome</hi> of <hi>Prague,</hi> with many other, ſufferers and ſuſtainers of inju<g ref="char:EOLhyphen"/>ries and indignities, who did not <hi>appellare Caeſarem,</hi> but <hi>Chriſtum.</hi>
+            </p>
+            <p>
+               <hi>Inform.</hi> 7. It ſhewes us how greatly and greivouſly they offend, who aſcend Chriſts judgement-ſeate, arraigne men at their barre, paſſe ſentence of death on all thoſe that are not of their way, opinion, party, ſide, judgement; many judge themſelves the greateſt Chriſtians, becauſe they are the greateſt Criticks to judge others. I ſhall endeavour to cleere this, that he or ſhe that is the greateſt cenſurer, is ever the greateſt ſinner, the more criticall, ever the more hypo<g ref="char:EOLhyphen"/>criticall.</p>
+            <p n="1">1. The raſh judging of thy mouth is a trumpet to pro<g ref="char:EOLhyphen"/>claime the reall jugling of thy minde. <hi>Marke</hi> 14. 70 <hi>Thou art a Galilaan, thy ſpeech agreeth thereto:</hi> Stinking breaths argue rotten lungs, and raſh judging rotten hearts. <hi>Matth.</hi> 12. 34. <hi>Out of the abundance of the heart the mouth ſpeaketh.</hi> Such water as is in the pipe, ſuch is in the ſpring; the mettall of the bell is knowne by the clapper.</p>
+            <q>
+               <l>Aera puto noſci tinnitu: pectora verbis,</l>
+               <l>Sic eſt; nam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> id ſunt utra<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>, quale ſonant.</l>
+            </q>
+            <p n="2">2. Chriſt calls thee, and the Scripture accounts thee an hypocrite.</p>
+            <p n="1">1. Chriſt calls thee ſo; <hi>Thou hypocrite, plucke first the</hi> 
+               <note place="margin">Matth. 7 5.</note> 
+               <hi>beame out of thine owne eye;</hi> he that ſees ſtrawes in other mens eyes, and hath beames in his owne, is an hypocrite; he that ſayes and ſees all things are yellow in others, it is ſure his owne eyes are troubled with the jaundiſe.</p>
+            <pb n="24" facs="tcp:43752:17"/>
+            <p n="2">2. The Scripture accounts thee ſo; <hi>James</hi> 1. 26. <hi>If any man among you ſeeme to be religious, and bridleth not his tongue, but deceiveth his own heart, this mans religion is vaine;</hi> that religion which layes and leaves the reines looſe to the tongue, to ſlander men for their preſent ſtate, and to cen<g ref="char:EOLhyphen"/>ſure them for their finall, it is but a <hi>videtur quod ſic,</hi> a diſſem<g ref="char:EOLhyphen"/>bling counterfeite religion, for ſo <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> properly ſigni<g ref="char:EOLhyphen"/>fies. <hi>Prov.</hi> 26. 23. <hi>Burning lips and a wicked heart, are like a potſheard covered with ſilver droſſe. Os maledictum, cor malum.</hi> Luth. A cenſorious mouth and a corrupt minde are like a potſheard covered with ſilver droſſe, which ſhew and ſhine faire to the eye, yet the one is but earth, and the other is but droſſe. Burning lips of mens perſons in hell ſhew their tongue is ſet on fire from the hell of their owne hearts, <hi>James</hi> 3. 6.</p>
+            <p n="3">3. Thou art an impudent and audacious hypocrite, thou pretendeſt faire to Chriſt, and yet thou putteſt him by his chaire, robbeſt him of his royalty; to be Judge of mens finall eſtate is Chriſts prerogative. The Pope is a notorious hypocrite, he pretends himſelfe to be Chriſts Vicar, yet he thruſts Chriſt by all his royalties, he pardons ſins, enjoynes penances, pilgrimages, diſpences with Chriſts Injunctions, diſpoſes of Kings and Kingdoms, and blaſphemouſly affirms, <hi>Per me reges regnant.</hi>
+               <note place="margin">
+                  <hi>Qui judicat fratrem, tantum crimen clationis incurrit ut cui tribunal aſſu<g ref="char:EOLhyphen"/>mit, &amp; ejus ju<g ref="char:EOLhyphen"/>dicium praeve<g ref="char:EOLhyphen"/>nit.</hi> Anſ.</note> What art thou but another uſurping Pope, joſtling Chriſt from his royall tribunall, and ſets downe thy ſelfe, acting his part, and exerciſing his power, ſummoning and ſentencing by thy Bulls, people to eternall death and deſtruction? Would it not be an impudent part for any private man to ſummon in the Country, to ſit in the Judges place, to act his part, to paſſe ſentence of death? much more is this.</p>
+            <p n="4">4. Thou art an obſtinate and obdurate hypocrite, thou perſevereſt in this ſin againſt the cleere light of Scripture, charging and commanding to forbeare all ſuch raſh and ir<g ref="char:EOLhyphen"/>religious judging. <hi>Matth.</hi> 7. 1. <hi>Judge not.</hi> i. e. raſhly or rigidly actions or perſons for their finall ſtate <note place="margin">Bern.</note>
+               <hi>Noli eſſe alienae vitae temerarius judex.</hi> Rom. 14. 10. <hi>But why doeſt thou judge? and why doeſt thou ſet at naught thy brother?</hi>
+               <pb n="25" facs="tcp:43752:17"/> A chiding and checking Apoſtrophe in an Interrogation. 1 <hi>Cor.</hi> 4. 5. <hi>Let us judge nothing before the time:</hi> it is very dangerous to antidate and anticipate judgement.</p>
+            <p n="5">5. Thou art a cruell and bloody hypocrite. <hi>Prov.</hi> 11. 9. <hi>A hypocrite with his mouth deſtroyeth his neighbour;</hi> it ſhews thy nature to be brutiſh and bloody to judge mens ſoules to eternall ruine and deſtruction, and to have no thoughts of pitty towards them. Didſt thou ever ſee a Judge paſſe ſentence upon a poore malefactor for the death of his body without teares or ſorrow? how canſt thou ſo readily and rejoycingly paſſe ſentence on their ſoules? But to drive home this naile to the head and heart, the perſons thou jud<g ref="char:EOLhyphen"/>geſt, either are Elect or Reprobate.</p>
+            <p n="1">1. Elect, wilt thou condemne them, whom God hath not, will not condemne. <hi>Rom.</hi> 8. 1. <hi>There is therefore now no condemnation to them that are in Chriſt Jeſus:</hi> v. 34 <hi>Who is he that condemneth?</hi> The glove is caſt downe by way of a challenge, and thou dareſt to take it up. Our Saviour when he ſaw no man condemned the woman in adultery, would <note place="margin">John 8. 11.</note> not condemne her. But now God hath not condemned his Elect, yet thou O vaine man wilt condemne them. <hi>Who art thou that judgeſt another?</hi> James 4. 12.</p>
+            <p n="2">2. Reprobate perſons, thou condemneſt them before their time. 1 <hi>Cor.</hi> 4. 5. <hi>Let us judge nothing before the time. There is a time for every purpoſe under heaven,</hi> Eccleſ. 3. 1. Now to meddle with any thing before that time, as it is un<g ref="char:EOLhyphen"/>ſeaſonable, ſo it is unſafe. Our Saviour would not torment the Devils before their time, and wilt thou condemne thine own fleſh before its time; Oh grutch them not an inch of time, they are ſhortly to be tormented eternally in hell! Be not ſo cruell a hangman as to haſten a malefactor that is to ſuffer within an houre.</p>
+            <p n="6">6. Thou ſhalt have the hypocrites portion; Hell is the hypocrites Fee ſimple. <hi>Matth.</hi> 24. 51. <hi>And appoint him his portion with hypocrites;</hi> Hypocrites are Free-holders of hell, others are but terants. <hi>Judas</hi> that grand hypocrite, <hi>Acts</hi> 1. 25. <hi>He went to his owne place.</hi> Chriſt will be as for<g ref="char:EOLhyphen"/>ward to ſend them to hell, as they have been forward to
+<pb n="26" facs="tcp:43752:18"/> ſend others. <hi>Matth.</hi> 7. 2. <hi>With what judgement you judge, you ſhall be judged, and with what meaſure you mete, it ſhall be meaſured to you againe. My brethren, be not many Ma<g ref="char:EOLhyphen"/>ſters, knowing that we ſhall receive the greater condemnation, James</hi> 3. 1. All that a man gets by ſuch judgement is grea<g ref="char:EOLhyphen"/>ter judgement: thou provokeſt Chriſt (as <hi>Lot</hi> did the <hi>So<g ref="char:EOLhyphen"/>domites)</hi> to deale worſe with thee then with them. Thus the Phariſees, thoſe eminent hypocrites are threatned with greater condemnation, <hi>Math.</hi> 23. 14. God heats the Fur<g ref="char:EOLhyphen"/>nace of hell (as <hi>Nebuchadnezzar</hi> did his Furnace for the <note place="margin">Dan. 3. 19.</note> three Children) ſeven times hotter for hypocrites than for other ſinners.</p>
+            <p>
+               <hi>Inform.</hi> 8. See what little cauſe Saints have too much and too immoderately to lament the death and departure of their deare and neare relations, either by the fleſh or ſpirit, they are not loſt, but laid downe in a full and firme aſſu<g ref="char:EOLhyphen"/>rance of coming againe; this Judge will ſend his Writ of <hi>Habeas Corpus,</hi> to remove them from the priſon of the grave. See how forcibly the Apoſtle preſſes this argument on the <hi>Theſſalonians,</hi> 1 <hi>Ep.</hi> 4. 13. <hi>That they mourn not as thoſe that have no hope.</hi> He renders the reaſon, <hi>v.</hi> 14. <hi>Thoſe that ſleepe in Jeſus, will God bring with him.</hi> Every one that ſleeps ſhall be awakened; the Curtaines of the grave ſhall be drawn, and every <hi>Lazarus</hi> ſhall come forth: then ſhall that Scripture be litterally true, <hi>Eph.</hi> 5. 14. <hi>Awake thou that ſleepeſt, and ariſe from the dead, and Christ ſhall give thee ligbt;</hi> Lumen gloriae.</p>
+            <p>2 <hi>
+                  <g ref="char:V">Ʋ</g>ſe,</hi> Is of examination; To try our ſelves by this Touchſtone, whether we are in the number of thoſe that do believe this truth, <hi>That Chriſt ſhall ſhortly come to be a Judge.</hi> I ſhall propoſe four Queſtions to be reſolved by your own hearts.</p>
+            <list>
+               <item>1. What intereſt have you in him?</item>
+               <item>2. What influence have you from him?</item>
+               <item>3. What affections beare you to him?</item>
+               <item>4. What preparations make you for him?</item>
+            </list>
+            <p n="1">1. What intereſt have you in him? Hath a true and live<g ref="char:EOLhyphen"/>ly ſaith entituled you to, inveſted you with all his glorious
+<pb n="27" facs="tcp:43752:18"/> benefits? Hath a ſurpaſſing love matcht and married you to his perſon<g ref="char:punc">▪</g> Doth faith make him your head? Doth love make him your husband? Can you not only ſay with <hi>Ignatius, our Love is crucified,</hi> but alſo <hi>our Love is Judge.</hi> Hear (the not triumphant) but triumphing Spouſe, <hi>Cant.</hi> 6. 2. <hi>I am my beloveds, and my beloved is mine.</hi> Haſt thou reſigned up thy ſelfe to be his, and accepted him to be thine, and that by a matrimoniall Covenant? Doeſt thou love him as a husband, and not feare him as a Judge, then thou expectedſt him to come as a Judge?</p>
+            <p n="2">2. What influence have you from him? Are you in<g ref="char:EOLhyphen"/>grafted branches in that Vine, which ſuck all their ſap, <note place="margin">John 15. 4, 5.</note> ſtrength, ſweetneſs from it, whereby you bring forth all thoſe delightfull fruits of prayer, faſting, hearing, medita<g ref="char:EOLhyphen"/>tion, conference? doe you doe all in the name of Chriſt? <hi>Col.</hi> 3. 19. Are you perſwaded you can <hi>do all things through Chriſt?</hi> Phil. 4. 13.</p>
+            <p n="3">3. What affections do you beare to him?</p>
+            <list>
+               <item>1. To his perſon.</item>
+               <item>2. To his people.</item>
+               <item>3. To his appearing.</item>
+            </list>
+            <p n="1">1. To his perſon; Is his perſon the feate and centre of thy affection? the height and heaven of thy love? Canſt thou really and experimentally uſe the Spouſes ſweet Peri<g ref="char:EOLhyphen"/>phraſis, as being raviſhed with his perſon, <hi>Cant.</hi> 3. 1, 2, 3, 4. Four times in four verſes, <hi>Thou whom my ſoule loveth.</hi> Is Chriſt all the love of thy ſoule? hath he the love of all thy ſoul? do all the parts and powers of thy ſoul meet (as the beames of the Sun in a burning Glaſſe) in the perſon of Chriſt? Then is thy love pure and pretious love; ſuch as is in thoſe believers who ſhall admire the glorious coming of Chriſt as a Judge, 2 <hi>Theſſ.</hi> 1. 10.</p>
+            <p n="2">2. To his people; have the Saints the chiefe roome in thy heart and houſe? as they had with <hi>Ingo</hi> King of the <hi>Draves,</hi> who placed his Peeres in his hall, but believers in his parlour, becauſe they were to be Peeres with him in a better Kingdome. 1 <hi>John</hi> 4. 17. <hi>Herein is love made perfect with us, that we may have boldnes in the day of judgement.</hi>
+               <pb n="28" facs="tcp:43752:19"/> Thoſe that truly love their brethren, ſhall not only dwell in God here, but alſo dwell with God hereafter;<note place="margin">
+                  <hi>Cotton</hi> in <hi>loc:</hi>
+               </note> for the words are nothing elſe but an argument deduced from <hi>v.</hi> 12. on which theſe words have their dependance.</p>
+            <p n="3">3. To his appearing.</p>
+            <p n="1">1. Doeſt thou love it? are the thoughts thereof delight<g ref="char:EOLhyphen"/>full? would the ſight thereof be joyfull? 2 <hi>Tim.</hi> 4. 8. <hi>
+                  <g ref="char:V">Ʋ</g>nto them that love his appearing:</hi> the day of judgement will be a day of coronation to all them that love his appearing.</p>
+            <p n="2">2. Doeſt thou look for it, expecting and waiting for it? as the <hi>Indians</hi> do for the Sunnes riſing in the morning, <hi>Tit.</hi> 2. 13. <hi>Looking for that bleſſed hope and glorious appea<g ref="char:EOLhyphen"/>ring of the great God and our Saviour Jeſus Chriſt.</hi>
+            </p>
+            <p n="3">3. Doeſt thou labour for it? by prayer haſtning the com<g ref="char:EOLhyphen"/>ing of the day of God. 2 <hi>Pet.</hi> 3. 12. Primitive Chriſtians hindred this day by their prayers <hi>pro mora judicij;</hi> but you haſten it, and with the Church deſire Chriſt to adde wings to bring him ſwifter. <hi>Rev.</hi> 22. 20. <hi>Come Lord Jeſus, come quickly.</hi>
+            </p>
+            <p n="4">4. What preparations do you make for him? do you as the wiſe Virgins prepare your lamps with oyle? <hi>Matth.</hi> 25. 4. Do you get wedding garments againſt the Bridegroomes coming? <hi>Matth.</hi> 22. 11. Are you as his Spouſe ready, decked and adorned in fine linnen, cleane and white, the righteouſnes of the Saints? <hi>Rev.</hi> 19. 7, 8. Surely thoſe that prepare themſelves to entertaine Chriſt as a husband, doe beleeve he ſhall come to be a Judge; becauſe they deſire to be under Covert-barre, to be defended againſt all actions and endictments of that Informer the Devill. That though he ſhould puniſh them as he is their Judge; yet he may ſpare them as he is their husband.</p>
+            <p>3 <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> Of terror, Blazing <hi>Aetna</hi> feares ſpectators; this burning <hi>Aetna</hi> feares auditors; this may be to all notori<g ref="char:EOLhyphen"/>ous ſinners (as the thunder-clap was to <hi>Caligula)</hi> make them run their heads in a hole, or as the hand-writing was to <hi>Belſhazzar,</hi> Dan. 5. 5, 6. Make you to change your countenance, trouble your thoughts, looſen the joynts of your loynes, and cauſe your knees to ſmite one againſt ano<g ref="char:EOLhyphen"/>ther,
+<pb n="29" facs="tcp:43752:19"/> as if they were at cuffs. This may make you change your name to <hi>Magor-Miſſabib,</hi> feare round about; and your heart the land of <hi>Nod,</hi> the land of trembling. See if thine eyes be not dazeled, heare if thine eares be not deaf<g ref="char:EOLhyphen"/>ned with that dreadfull text, <hi>Pſal.</hi> 9. 17. <hi>The wicked ſhall be turned into hell, and all the nations that forget God.</hi> Chriſt this Judge ſhall ſend and ſentence all ſinners to hell, that lake that burns with fire and brimſtone. And though all ſinners may tremble at this doctrine, yet ſome in an eſpeciall manner, ſuch as the Scripture hath nominated.</p>
+            <p n="1">1. All Atheiſts that make a mocke and ſcoffe at this Judges coming. 2 <hi>Pet.</hi> 3. 3. <hi>There ſhall come in the laſt dayes ſcoffers, walking after their own luſts, and ſaying, Where is the promiſe of his coming?</hi> They that deride Chriſt coming, Chriſt ſhall deride them going.</p>
+            <p n="2">2. All hypocrites, that make faire ſhewes and fine ſignes of ſanctity and holineſs, but are full of ſin and wic<g ref="char:EOLhyphen"/>kedneſs, whited ſepulchres, that appeare beautifull with<g ref="char:EOLhyphen"/>out, but are full of rotten bones and uncleanneſs within, theſe ſhall be ſure to receive double damnation, <hi>Matth</hi> 23. 14. 27.</p>
+            <p n="3">3. All apoſtates and backſliders, who followed their Admirall in a calme, but forſooke him in a ſtorme. Chriſt ſhall have no pleaſure in them, but puniſhment for them, even to perdition, <hi>Heb.</hi> 10. 38, 39.</p>
+            <p n="4">4. All ſeducers and deceivers, who bring in damnable hereſies, and deny the Lord that bought them, ſhall have ſwift and ſevere deſtruction, 2 <hi>Pet.</hi> 2. 1.</p>
+            <p n="5">5. All adulterers and adultereſſes, who defile the Tem<g ref="char:EOLhyphen"/>ple of the holy Ghoſt, breake the holy Covenant, prophane that ſacred ſtate of marriage, who walke after the fleſh, in the luſts of uncleanneſs, ſhall cheifely be puniſhed by Chriſt, 2 <hi>Pet.</hi> 2. 9, 10. <hi>Whoremongers and adulterers God will judge, Heb.</hi> 13. 4.</p>
+            <p n="6">6. All covetous and cruell Cormorants, that want bowels of charity and compaſſion to the needy and neceſſitous; all rich and riotous <hi>Dives</hi>'s, whoſe dogs have more pitty on <hi>Lazarus</hi>'s than they have, <hi>ſhall have judgement without mercy,</hi> James 2. 13.</p>
+            <p n="7">
+               <pb n="30" facs="tcp:43752:20"/> 7. All raſh and rigid cenſurers, who condemne others to hell, ſhall be by Chriſt condemned to hell themſelves, <hi>Rom.</hi> 2. 1, 2, 3, 4.</p>
+            <p n="8">8. All unrighteous Judges, who are guilty of bribery, injuſtice, oppreſſion, partiality, delaying the cauſe of the poore in the Courts of judicature, ſhall finde Chriſt a ſe<g ref="char:EOLhyphen"/>vere Judge to them, <hi>Eccleſ.</hi> 3. 16, 17.</p>
+            <p n="9">9. All troublers and diſturbers of the peace and proſpe<g ref="char:EOLhyphen"/>rity of the godly, 2 <hi>Theſſ.</hi> 1, 6, 7.</p>
+            <p n="10">10. All diſobeyers of the Goſpel of Jeſus Chriſt, 2 <hi>Theſ.</hi> 1. 8, 9.</p>
+            <p n="11">11. All non-lovers of Jeſus Chriſt, who are reſerved on purpoſe for Chriſts coming, 1 <hi>Cor.</hi> 16. 22.</p>
+            <p n="12">12. All enemies and oppoſers to the glorious govern<g ref="char:EOLhyphen"/>ment and reigne of Jeſus Chriſt, whoſe execution Chriſt will ſtand and ſee, <hi>Luk.</hi> 19. 27.</p>
+            <p>There are four things which may amaze and aſtoniſh all prophane ſinners.</p>
+            <p>1 <hi>Conſ:</hi> Who is this Judge?</p>
+            <list>
+               <item>1. In reſpect of himſelfe.</item>
+               <item>2. In reference to your ſelves.</item>
+            </list>
+            <p n="1">1. In reſpect of himſelfe; he hath the perſon of a man, but he hath the power of a God; he is mantled with Ma<g ref="char:EOLhyphen"/>jeſty, guarded with Angels, enraged with anger, enabled to bring all prophane wretches to a publique tryall for all your acts of high treaſon againſt the crowne and dignity of heaven; in a word, one into whoſe hands it is <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> to fall into, <hi>Heb.</hi> 10. 31.</p>
+            <p n="2">2. In reference to your ſelves; he is one whoſe proffers you have rejected, whoſe commandments you have diſ<g ref="char:EOLhyphen"/>obeyed, Goſpel diſgraced, Spirit grieved, Ordinances neg<g ref="char:EOLhyphen"/>lected, Government contemned, perſon ſlighted, blood de<g ref="char:EOLhyphen"/>ſpiſed, preferring <hi>Barabbas</hi> before him, a ſordid ſin before thy ſweeteſt Saviour. <hi>Nemo eſt qui id non aegre ferat, ſi quem interfecit, eum habeat ſibi judicem, Roll. in Rom.</hi> A ter<g ref="char:EOLhyphen"/>rified Judge, will be a terrible Judge.</p>
+            <p>2 <hi>Conſ.</hi> What ſhall be brought to light and ſight by this Judge? all your ſins, not only your open and knowne
+<pb n="31" facs="tcp:43752:20"/> tranſgreſſions, your drunkenneſs, whoredome, ſwearing, curſing, lying, but alſo all your ſecret ſins, your privy prancks, ſecret plottings, underboard-dealings, putrid hy<g ref="char:EOLhyphen"/>pocriſics, Chriſt will ranke all your ſins in battalia againſt you, <hi>Pſal.</hi> 50. <hi>Pſal.</hi> 21. How dreadfull will the ſight of ſin be to you? 1 <hi>Kings</hi> 17. 18. Oh how it terrified the Wo<g ref="char:EOLhyphen"/>man, the Prophets coming to call her ſins to remembrance! much more will Chriſts coming to call you for your ſins to tryall, aſtoniſh and amaze you.</p>
+            <p n="3">3. Conſider the ſentence this Judge ſhall pronounce a<g ref="char:EOLhyphen"/>gainſt you, <hi>Matth</hi> 25. 41. <hi>Depart from me you curſed in<g ref="char:EOLhyphen"/>to everlaſting fire, prepared for the Devill and his Angels!</hi> In this ſentence every word hath its weight of woe; you are charged to depart from Chriſt, what pleaſure ſhall you not looſe? you are condemned to fire, what puniſhment ſhall you not feele? it is impoſſible for you to conceive, or for me to expreſſe, what puniſhment it is for you to be in everlaſting fire with the Devil and his Angels?</p>
+            <p n="4">4. Conſider the eternity of your duration in this woe and miſery, your ſoul ſhall be filled with finall deſpaire; there never will be any valley of <hi>Achor</hi> for the doore of hope, but thou muſt lye and live in thoſe flames to all eter<g ref="char:EOLhyphen"/>nity. This cuts and kils a mans heart, that his miſery will laſt as long as his life. <hi>Si addas eternitatem alicui malo, erit infinite malum. Drexel:</hi> Oh how much more may the e<g ref="char:EOLhyphen"/>ternity of infinite torment terrifie you!</p>
+            <p>4 <hi>
+                  <g ref="char:V">Ʋ</g>ſe. Exhort.</hi> To perſwade Gods people, ſo to live as to ſhew they believe this truth; it is the vaine glory of ſome, that they are mercy-proofe, ſword-proofe, Sermon-proofe; it will be your honour and happineſs, ſo to live as you may be judgement-proofe: what a glory will it be for you in ſuch wicked and wretched times as theſe are, to be <hi>Noahs, Lots, Joſhuahs, Calebs?</hi> I dare boldly ſay, that Religion was never more owned and honoured in <hi>England</hi> by the publique Magiſtrate, both in precept and practice, and yet I muſt ſay, never was there more prophaneneſs, vileneſs, wickedneſs, then now is in the Land; not only ſwarmes (as ever) with drunkards, ſwearers, ſlanderers,
+<pb n="32" facs="tcp:43752:21"/> murtherers, whoremongers, <hi>&amp;c.</hi> but alſo with ſuch un<g ref="char:EOLhyphen"/>heard<g ref="char:punc">▪</g> of ſinners, who have taken the higheſt degrees, and have commenced, <hi>Ranters, Hectors, Trappans,</hi> and words of Art, that all the Logicke I have, cannot helpe me to un<g ref="char:EOLhyphen"/>derſtand; ſo farre as I can conceive, they are ſuch as chal<g ref="char:EOLhyphen"/>lenge God, defie Chriſt, deny Scripture, ſcoffe heaven, de<g ref="char:EOLhyphen"/>ride hell. Now what an honour will this be for you to be heavenly tapers, burning in the damps of ſin, ſtarres ſhining in the dark night of prophanneſs, to be like the river <hi>Ari<g ref="char:EOLhyphen"/>thuſa,</hi> to run through the brackiſh Ocean, and yet to retaine your ſweetneſs and freſhneſs. <hi>Laus tribuenda Muraenae,</hi> and if <hi>Cicero</hi> commended <hi>Muraena,</hi> that he had lived chaſtly in incontinent <hi>Aſia;</hi> how much more will Chriſt commend you for living purely and piouſly in a prophane world. <hi>Inter malos bonum eſſe, eſt immenſae bonitatis. Greg. in Job</hi> 1. 1. To be bad in any times is a ſin, to be bad in good times is a ſhame, to be good in good times is no praiſe, to be good in bad times is a glory.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 5. To direct you to ſome means whereby you may be able to ſtand before this Judge in judgement.</p>
+            <p n="1">1. Repent for all your ſins. <hi>Acts</hi> 3. 19. <hi>Repent you there<g ref="char:EOLhyphen"/>fore and be converted, that your ſins may he blotted out when the times of refreſhing ſhall come from the preſence of the Lord.</hi> Thoſe mens ſins ſhall never be ſealed up in Gods bag, whoſe repenting teares have been put up into his bottle. If one teare of <hi>Alexanders</hi> Mother would wipe away all her faults, then much more, will penitent tears, all the failings of Chriſts Saints.</p>
+            <p n="2">2. Get you garments made of the wooll, and dyed with blood of the Lamb of God, be ſure to appeare in your Pon<g ref="char:EOLhyphen"/>tificalibus on that day: you are then to be Judges, bring your ſcarlet robes along with you, <hi>Matth.</hi> 22. 11.</p>
+            <p n="3">3. Daily arraigne your ſoules at the barre of your own conſcience, paſſe ſentence of death and damnation on your ſelves. 1 <hi>Cor.</hi> 11. 31. <hi>If we judge our ſelves, we ſhall not be judged.</hi> Thoſe that judge themſelves in their own private Seſſions, ſhall not be judged by Chriſt in his publique Aſ<g ref="char:EOLhyphen"/>ſizes. <hi>Amat deus ſeipſos judicantes, non judicare. Aug.</hi>
+               <pb n="33" facs="tcp:43752:21"/> Chriſt loves to judge them that judge others raſhly, but not thoſe that judge themſelves religiouſly. The Patriarch of <hi>Alexandria</hi> asked the Hermite how he ſpent his life, who anſwered, <hi>Indeſinenter culpando &amp; judicando meipſum;</hi> who replyed, This is the only way to life and ſalvation.</p>
+            <p n="4">4. Make <hi>Blaſtus</hi> the Kings Chamberlaine your friend; keep good correſpondency with your own conſciences, do you what God ſaid to <hi>Abraham</hi> about <hi>Sarah,</hi> Liſten to it, whatſoever it ſayes to thee. <hi>Maxima eſt vis conſcientiae in utram<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> partem.<note place="margin">Cicero.</note>
+               </hi> 1 John 3. 20, 21. <hi>If our heart condemne us, God is greater then our heart; and knoweth all things, if our heart condemne us not, then have we confidence towards God</hi> Conſcience is <hi>Cuſtos Rotulorum,</hi> who ſhall produce and preferre all the bils of indictment againſt ſinners, and read all the pardons ſigned and ſealed by the blood of Chriſt to Saints.</p>
+            <p n="5">5. Get bowels of mercy to the afflicted members of Je<g ref="char:EOLhyphen"/>ſus Chriſt. <hi>Matth</hi> 25. 31. <hi>I was an hungry, and you gave me meate,</hi> &amp;c. (Chriſt releived in his members.) <hi>Come you bleſſed of my Father, inherite the Kingdome prepared for you from the foundation of the world. Non habebit guttam, qui non dedit micam. Aug.</hi> As he ſhall not have a drop that gave not a crumb, ſo he ſhall have an Ocean that gave a drop.</p>
+            <p n="6">6. Live in print; keep the copy of your lives free from blots and blurs, that the characters thereof may be read by all. <hi>Tit.</hi> 2. 11, 12, 13. <hi>The grace of God that hath appeared to us, teaches us to deny ungodlineſs, and worldly lusts, and to live ſoberly, righteouſly, and godly in this preſent world, look<g ref="char:EOLhyphen"/>ing for that bleſſed hope and glorious appearing of our Saviour Jeſus Chriſt.</hi> Let righteouſneſs and religion, holineſs and honeſty, which God hath united together in his Word, appeare together in your workes; live and lead Evangeli<g ref="char:EOLhyphen"/>call, yea Angelicall lives. 1 <hi>John.</hi> 3. 3. As having hope cau<g ref="char:EOLhyphen"/>ſes us to purifie our ſelves for that day, ſo purifying our ſelves, cauſes us to have hope in that day.</p>
+            <p n="7">7. Let the meditation of this rigid and righteous Judge be fixed in your hearts before every action; this will won<g ref="char:EOLhyphen"/>derfully
+<pb n="34" facs="tcp:43752:22"/> perſwade you to be prepared for this Judge and <note place="margin">
+                  <hi>Nihil eſt quod magis proficiat ad vitam bone<g ref="char:EOLhyphen"/>ſtam, quàm ut credamus eum judicem futu<g ref="char:EOLhyphen"/>rum, quem &amp; occulta non ſal<g ref="char:EOLhyphen"/>lunt, &amp; inde<g ref="char:EOLhyphen"/>cora offendunt &amp; honeſta de<g ref="char:EOLhyphen"/>lectant.</hi> Amb. lib. de Offic.</note> Judgement. It makes the young man to rejoyce moderate<g ref="char:EOLhyphen"/>ly in his youth, <hi>Eccleſ.</hi> 11. 9. It makes the Miniſter ſerious and ſedulous in his miniſtry, 2 <hi>Cor.</hi> 5. 11, 13, 14. It makes the Magiſtrate diligent in his place, as it did the Emperour <hi>Conſtantine, Euſeb. lib.</hi> 4. <hi>cap.</hi> 29. Yea it hath an influence on all. M. <hi>Perkins</hi> reports of a gratious Gentlewoman, much ſollicited to be a ſtrumpet by an importunate ſuitor, who promiſed her to do any thing for her ſake, ſhe deſired him to put his hand into the fire, and hold it there a quarter of an houre, to whom he replyed, oh! that is an unreaſonable requeſt; to whom ſhe retorted, how much more unreaſo<g ref="char:EOLhyphen"/>nable is your requeſt, that would have me to ſatisfie your luſt to burne in hell fire to all eternity. <hi>Holcot</hi> reports of two Souldiers coming to the valley of <hi>Jehoſaphat</hi> in <hi>Judaea,</hi> that ſaid one to the other, this is the place where the geue<g ref="char:EOLhyphen"/>rall judgement ſhall be, therefore I will take up, ſaid one of them, my place before hand, and ſo taking up a ſtone, ſate downe upon it; but before he aroſe ſuch trembling ſeazed upon him, that he remembred the day of Judgement unto his dying day. So that we ſee thoughts of judgement have been advantageous to all ſorts of perſons; and I am ſure they would be a <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to heale all diſeaſes &amp; diſtem<g ref="char:EOLhyphen"/>pers. If we Miniſters would read every morning a Chapter in this booke of Judgement, and write it downe in the common place booke of our conſciences, with the pen and inke of meditation and prayer, it would keepe us from lazi<g ref="char:EOLhyphen"/>neſs in our places, and lewdneſs in our practiſes. If you Souldiers would anoint your ſwords with the ſword-ſalve of judgement, it would heale all the wounds in your conſci<g ref="char:EOLhyphen"/>ences, and keepe you from wounds for ever. If you Ladies would dreſs your ſelves every morning in the glaſſe of judgement, it would cure your black pimples, and cover your naked breſts, thoſe two famous Enſignes of ſtrum<g ref="char:EOLhyphen"/>pets. If you <hi>Hectors</hi> with your <hi>Mad-dames,</hi> would per<g ref="char:EOLhyphen"/>fume your beds with the muske of Judgement, it would cure you of, and keep you from the <hi>Noli me tangere.</hi> If you drunkards would ſpice your morning draughts with the
+<pb n="35" facs="tcp:43752:22"/> Nutmeg of judgement: it would keep you from reeling and ſpuing all that day. In a word, if all would ſeriouſly thinke of being judged by the law of liberty, it would make them ſo to ſpeake, and ſo to doe, as they might hold up their heads in that time, <hi>James</hi> 2. 12.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 6. Of conſolation to all the friends and favourites of Jeſus Chriſt: out of the Lyon of the Tribe of <hi>Judah</hi> com<g ref="char:EOLhyphen"/>eth better and ſweeter honey, then out of <hi>Sampſons</hi> Lyon; <note place="margin">Judges 14. 8.</note> come pretious ſoules, here you may ſatiate (you cannot ſur<g ref="char:EOLhyphen"/>fet) your ſelves. When this Judge comes, then is the time for you to lift up your heads, <hi>Luke</hi> 21. 28. Then is your time of refreſhing from the preſence of the Lord, <hi>Acts</hi> 3. 19. Then is your marriage day, <hi>Rev.</hi> 19 7. Then is your Coronation day, 2 <hi>Tim.</hi> 4. 8.</p>
+            <p>There are four things that are breſts of comfort and con<g ref="char:EOLhyphen"/>ſolation to you.</p>
+            <p n="1">1. The neare and deare relations between you and the Judge; he that is Judge on the Bench, was your Advocate at the barre, your friend at the board, your husband in the bed; it is he that ſuffered for your ſakes, ſatisfied for your ſins, interceded for your prayers, pleaded for your perſons. What made the Apoſtle ſo peremptorily to aske that que<g ref="char:EOLhyphen"/>ſtion, <hi>Rom.</hi> 8. 34. <hi>Who is he that condemneth? it is Chriſt that dyed. Quomodo Chriſtus cum damnabit, quem propria mors redemit.</hi> Amb. lib. de Jacob. cap. 6.</p>
+            <p n="2">2. The ſhortneſs of the time; it will not be long before this Judge comes, though I dare not ſay with <hi>Alſted.</hi> in his Chronol: that 1657, ſhould be the yeare, becauſe the nu<g ref="char:EOLhyphen"/>merall letters are found in <hi>mundi conflagratio;</hi> nor yet with <hi>Napier</hi> that 1688 ſhal be the year, for thoſe are <hi>Arcana coe<g ref="char:EOLhyphen"/>li;</hi> yet I may ſay with <hi>Bucanon,</hi> if 1600 yeares agoe were <hi>ultimum tempus,</hi> that then this is <hi>ultimum temporis.</hi> I may ſay with <hi>Tertullian,</hi> this is <hi>clauſulum ſeculi:</hi> with <hi>Auſtin,</hi> Chriſt is in <hi>proximo:</hi> with <hi>Cyprian,</hi> he is <hi>ſupra caput;</hi> yea I may ſay of ſome here, as was ſaid of <hi>Simeon,</hi> they ſhall not depart this life before they ſhall ſee the Lords Chriſt, <hi>Heb.</hi> 10. 37. <hi>For yet a little while, and he that ſhall come, will come, and will not tarry.</hi> The originall is very full and emphati<g ref="char:EOLhyphen"/>call,
+<pb n="36" facs="tcp:43752:23"/> every word hath its weight, to ſhew not only the certainty, but eſpecially the celerity of his coming:</p>
+            <p>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>yet a little very little while.</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, who is on his way, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>inſtabit, Paraeus.</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Att:</hi> makes no delay: the ſumme is, he is on the wing, he comes poſt, he will be here before moſt are aware.</p>
+            <p n="3">3. What this Judge brings with him, <hi>Rev.</hi> 22. 12. <hi>Be<g ref="char:EOLhyphen"/>hold I come quickly, and my reward is with me.</hi> Chriſt comes with his hands full of wages and rewards. 1 <hi>John</hi> 3. 2. <hi>We know when he ſhall appeare, we ſhall be like him,</hi> 2 Theſ. 1. 10. He ſhall come to be glorified in all his Saints, and to be admired in all them that beleeve. Its not poſſible for me to expreſſe, nor you to conceive, what wages Chriſt brings with him: it is beyond rhetorick and reading. <hi>Coelum &amp; Chriſtus non patiuntur hyperbolen.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>Quicquid dixero minus erit.</hi>
+               </p>
+            </q>
+            <p>Yet I ſhall adventure to give you a taſt of the fruit of the heavenly <hi>Canaan,</hi> which may ſuffice and ſatisfie you, un<g ref="char:EOLhyphen"/>till your bleſſed <hi>Joſuah</hi> ſhall lead you into it.</p>
+            <p>I ſhall for method-ſake divide theſe bleſſings, into bene<g ref="char:EOLhyphen"/>fits for the body, benefits for the ſoule, and benefits for both.</p>
+            <p>1. Benefits to the body. Which are of two ſorts.</p>
+            <list>
+               <item>1. Privative.</item>
+               <item>2. Poſitive.</item>
+            </list>
+            <p>1. Privative; there ſhall be a releaſing our bodies.</p>
+            <list>
+               <item>1. From all miſeries.</item>
+               <item>2. From all neceſſities.</item>
+               <item>3. From all deformities.</item>
+            </list>
+            <p>1. From all miſeries.</p>
+            <p n="1">1. From penury and poverty, thoſe <hi>dura tela;</hi> there ſhall be no beggar in that heavenly <hi>Iſrael.</hi>
+            </p>
+            <p n="2">2. From toile and labour, no</p>
+            <p>
+               <hi>Redit agricolis labor actus in orbem.</hi>
+            </p>
+            <p>As when night of death comes no man can worke, ſo when day of glory comes no man ſhall worke; all holy-dayes,
+<pb n="37" facs="tcp:43752:23"/> heaven is nothing elſe but an eternall play day.</p>
+            <p n="3">3. From the yoak of ſervitude and ſubjection, Politi<g ref="char:EOLhyphen"/>call, Oeconomicall, Eccleſiaſticall: then will be the yeare of releaſe, the univerſall Jubilee, then ſhall <hi>God be all in all.</hi> 1 <hi>Cor.</hi> 15. 28.</p>
+            <p n="4">4. From perſecution; no dogs nor devourers there; the dogs ſhall be caſt into the kennell of hell, to hang and howle for ever.</p>
+            <p n="5">5. From thoſe three arrowes, of ſword, plague, famine, <hi>Rev.</hi> 21. 1. No more Sea: this world is that Sea, theſe three the billowes which breake the bones of men, and backs of Kingdomes.</p>
+            <p n="6">6. From all diſeaſes and ſickneſſes, all pangs and paines, all Doctors and Phyſicians <hi>Recipes</hi> will be uſeleſſe there, heaven's a <hi>probatum eſt</hi> againſt all maladies.</p>
+            <p n="7">7. From death; no crying or dying there; in that Church no bell to toll the paſſing knell; in that City no bils of mortality printed.</p>
+            <p>2. From all neceſſities.</p>
+            <p n="1">1. From food and ſuſtenance, we ſhall not live with the Salamander in the fire, with the Camaeleon by the aire, but we ſhall live by the eye, <hi>Rev.</hi> 7. 16, 17.</p>
+            <p n="2">2. From rayment, ſtudying, marriage, &amp;c. <hi>Matth.</hi> 22. 30. <hi>As the Angels of God.</hi>
+            </p>
+            <p n="3">3. From all deformities; no monſters, nor miſhapes in heaven; that rectifies all.</p>
+            <p>2. Poſitive benefits to our bodies.</p>
+            <p n="1">1. Our bodies ſhall be perfect and perſonable, without ſpot or blemiſh, better then if made of wax and alablaſter, no need ſhall our Ladies have then of <hi>Peter</hi> and <hi>Paul,</hi> or black ſpots. <hi>Phil.</hi> 3. 21. <hi>Glorious bodies.</hi>
+            </p>
+            <p n="2">2. Immortall and incorruptible; heaven hath embalm<g ref="char:EOLhyphen"/>ing ſpices to keep our bodies for ever. <hi>Adam</hi> had <hi>(<g ref="char:V">Ʋ</g>t ſcholastici) a poſſe non mori, a non poſſe non mori, a mori non poſſe;</hi> this laſt ſhall then be our condition.</p>
+            <p n="3">3. Spirituall and tranſparent, like Venice glaſſes with water in them, which ſhew all the parts and proportions of the things in them. <hi>Corpora beatorum ita erint diaphana,</hi>
+               <pb n="38" facs="tcp:43752:24"/> 
+               <hi>ut oculis intuentium appareant venae, humores, viſcera, ner<g ref="char:EOLhyphen"/>vi, ac tota omnium partium harmonia.</hi> Thom: in Add: q. 85. act. 1.</p>
+            <p n="4">4. Active and agile, they ſhall <hi>ſequi ad nutum animae,</hi> they ſhall move, though not in <hi>inſtanti,</hi> yet <hi>tempore imper<g ref="char:EOLhyphen"/>ceptibili.</hi>
+            </p>
+            <p n="5">5. Mighty and powerfull; <hi>Luther</hi> is perſwaded that the bodies of the Saints ſhall be of that ſtrength, that they ſhall be able to toſſe the greateſt mountaine like a ball.</p>
+            <p>2. Benefits for the ſoul; <hi>Si tanti vitrum, quanti mar<g ref="char:EOLhyphen"/>garita,</hi> if the Cabinet be thus rare, what ſhall be the jewel; ſurely Chriſt will not do as the <hi>Aegyptians,</hi> build ſtately Temples without, and have nothing but dogs and Crocodiles within.</p>
+            <p>1. The privative benefits that ſhall accrue to our ſoules are:</p>
+            <p>1. Freedome from ſin, that great troubler of our ſpiri<g ref="char:EOLhyphen"/>tuall <hi>Iſrael,</hi> the bane and burthen of our ſoules; <hi>Hic prae<g ref="char:EOLhyphen"/>ceptum eſt ut non peccemus, ibi praemium eſt non poſſe pec<g ref="char:EOLhyphen"/>care.</hi> Aug: ad Bonif: lib. 7. cap. 7. tom. 7.</p>
+            <p n="1">1. Our hearts, thoſe bottomleſs Oceans of pollution and prophaneſs ſhall be emptied, we ſhall never be more troubled with hardneſs of heart, with ſtraitneſs in duties, with hypocriſie in our actions, with unbeleife in the promi<g ref="char:EOLhyphen"/>ſes; but our hearts ſhall be <hi>Camaerae regis,</hi> the Courts of God, and preſence Chambers of Jeſus Chriſt.</p>
+            <p n="2">2. Our underſtandings ſhall be freed from miſts and fogs of ignorance, thoſe <hi>Iſraelites</hi> ſhall be delivered from <hi>E<g ref="char:EOLhyphen"/>gypt. Ignoramus</hi> ſhall never be acted more by them.</p>
+            <p n="3">3. Our judgements ſhall be freed from errors, it ſhall be truly ſaid of them, which is falſly ſaid of Popes, they can<g ref="char:EOLhyphen"/>not erre.</p>
+            <p n="4">4. Our wills ſhall be freed from all impurity, imperfecti<g ref="char:EOLhyphen"/>on, unability, unwillingneſs; heaven will make us all con<g ref="char:EOLhyphen"/>formiſts, the wheels of our wills ſhall ſweetly and ſwiftly move about with the <hi>primum Mobile</hi> of Gods will.</p>
+            <p n="5">5. Our memories ſhall be freed from oblivion; amongſt all the rivers in Paradize, there ſhall be no <hi>amnis oblivionis;</hi>
+               <pb n="39" facs="tcp:43752:24"/> amongſt all the Lawes of heaven, there ſhall be no <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; all good things ſhall be ſo imprinted with indele<g ref="char:EOLhyphen"/>ble characters in our memories, that no <hi>aqua fortis</hi> ſhall be able to eat them out.</p>
+            <p n="6">6. Our conſciences ſhall be freed from all impurity and unquietneſs. <hi>Bernards</hi> fourfold conſcience ſhall be abbre<g ref="char:EOLhyphen"/>viated into one; the bad and quiet, the bad and unquiet, the good and unquiet; into a good and quiet conſcience, that which is not only the heaven upon earth, but alſo that heaven of heavens.</p>
+            <p n="7">7. Our affections ſhall be freed from all diſtemper and diſorder; they ſhall never more make our ſoules Bedlam<g ref="char:EOLhyphen"/>houſes: thoſe untamed horſes ſhall not overthrow the Chariots; but thoſe ſtrings ſhall be ſo well tuned, that they ſhall make melodious muſick.</p>
+            <p>2. Freedome from Sathan and his temptations, no De<g ref="char:EOLhyphen"/>vil ſhall ever ſtand at our eare or elbow, to inſpire wicked motions, or to incite us to vaine actions, he ſhall never rub our temples with his <hi>Opium</hi> of poyſonous ſuggeſtions. <hi>Rev.</hi> 12. 7, 8. He was once ſued with an <hi>Ejectione firma</hi> out of heaven, he can never gaine poſſeſſion againe.</p>
+            <p>3. From the feare of hell and damnation, you ſhall have an eternall acquittance and diſcharge given you under the hand of Jeſus Chriſt.</p>
+            <p>4. From the feare of Gods diſpleaſure, that <hi>inferni li<g ref="char:EOLhyphen"/>men;</hi> God will for ever lift up the light of his countenance upon you; nothing but ſmiles from God.</p>
+            <p>2. Poſitive mercies to your ſoules.</p>
+            <p n="1">1. Your ſoules ſhall be filled with perfect knowledge, <hi>(ſcibilia in quantum ſcibilia)</hi> all the eſſences, and firſt qualities of things, which now are hidden from us, all the riddles in Scripture ſhall then be reſolved, yea the whole Arke which now is dangerous to pry into, ſhall then be open'd, and we ſhall know all that is needfull and comfor<g ref="char:EOLhyphen"/>table for us to know about Gods councel of election and re<g ref="char:EOLhyphen"/>probation, the Trinity in Unity, the hypoſtatical union, &amp;c. 1 <hi>Cor.</hi> 13. 12.</p>
+            <p n="2">2. With perfect holineſs and ſanctity of our natures:
+<pb n="40" facs="tcp:43752:25"/> happineſs is nothing elſe but holineſs compleated and crowned.</p>
+            <p n="3">3. Enjoyments joyntly to ſoules and bodies.</p>
+            <p n="1">1. We ſhall ſit Judges upon them that have ſlurd and ſlanderd us, 1 <hi>Cor.</hi> 6. 2. <hi>The Saints ſhall judge the world.</hi> 1. <hi>Comparativè,</hi> Matth. 12. 41. 2. <hi>Interpretativè,</hi> they ſhall approve of the ſentence, <hi>Pſal.</hi> 119. 137. 3. <hi>Acceſſoriè,</hi> they ſhall ſit on the bench with him, <hi>Matth.</hi> 19. 28.</p>
+            <p n="2">2. You ſhall enjoy the company of Chriſt and Saints.</p>
+            <p n="1">1. Chriſt; you ſhall obtaine that (which was <hi>Auſtin's</hi> deſire) <hi>viz.</hi> to ſee Chriſt in the fleſh, <hi>John</hi> 17. 24.</p>
+            <p n="2">2. Saints; you ſhall ſee and know all the Saints from <hi>Adam</hi> to the laſt that entred into heaven, <hi>Heb.</hi> 12. 23.</p>
+            <p n="3">3. All the treaſures and pleaſures of heaven, ſet forth and ſhadowed out to you from ſundry ſimilitudes and com<g ref="char:EOLhyphen"/>pariſons, as crowne of life, power over nations, feaſting, marrying, ſumm'd up in the joy of the Lord, <hi>Matth.</hi> 25. 23.</p>
+            <p n="4">4. The preſence and perſon of Almighty God, <hi>Matth.</hi> 5. 8. You ſhall ſee God, not only with a mental, but alſo with a corporal viſion, which is the <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of heaven and happineſs.</p>
+            <p n="5">5. The continuance and duration of all this happineſs which is for ever, <hi>Pſal.</hi> 16. 11. <hi>In thy preſence is fulneſs of joy, at thy right hand are pleaſures for evermore.</hi> 2 Cor. 4. 17. <hi>A more exceeding and eternall weight of glory.</hi> The words in the Original are ſo full, that we can ſcarcely ren<g ref="char:EOLhyphen"/>der them in Engliſh, ſo nigh as we can come, is, that if <note place="margin">
+                  <hi>Aeternitate magis aeterna.</hi> Bez. in loc.</note> there be an eternity more then eternal, this is it. As it adds much to the miſery of the damned, that their torments are eternal, ſo it adds infinitely to the comfort of the Elect, that their joyes are eternal and everlaſting.</p>
+            <p>And thus have I done with my Text in general, to come to the occaſion of this Aſſembly in particular.</p>
+            <p>1. To you much honoured Lords; It is the honour of <note place="margin">To the Judges.</note> this people, that Judges of ſuch integrity and ability, ſhould come this Circuit. It is the happineſs of the Preacher to
+<pb n="41" facs="tcp:43752:25"/> have ſuch Judges eares and hearts to ſpeake to, that have alwayes been obſerved for their devotion and piety; in their
+<list>
+                  <item>attention to</item>
+                  <item> retention of</item>
+               </list> the Word; which emboldens me to ſpread theſe four Petitions hum<g ref="char:EOLhyphen"/>bly before your Honours.</p>
+            <p n="1">1. When you are in the place of temporal, thinke often on eternal judgement; let your heart be the true Philoſo<g ref="char:EOLhyphen"/>phers ſtone, which turns all theſe earthly matters and met<g ref="char:EOLhyphen"/>tals into golden meditations, ſuch thoughts will warne and warme your hearts, quicken and carry on your ſpirits in your weighty affaires, comfortably and couragiouſly.</p>
+            <p n="2">2. Execute temporal, as this Judge will execute eternal judgement; <hi>Fiat juſtitia ruat mundus,</hi> give me leave thus to Engliſh it, ſo execute judgement as if the world were now a ruining, that ſo ſpectators may learne <hi>alphabetum judicij extremi,</hi> as <hi>Luther</hi> phraſes it.</p>
+            <p n="3">3. Maintaine the honour of that Potentate from whom you have your Commiſſion. <hi>Prov.</hi> 8. 16. <hi>By me Princes rule, and Nobles, even all the Judges of the earth.</hi> Let your lips ſpeake, plead, pronounce, ſentence, even to death for Chriſt, if the offence demerit it<g ref="char:punc">▪</g> If any ſhould be brought before you for ſaying the Protector were a <note n="a" place="margin">Reader, judge whether here be any thing ſpoken againſt the Lord Pro<g ref="char:EOLhyphen"/>tector, as ſome obtrectators have falſly ac<g ref="char:EOLhyphen"/>cuſed mee, whoſe unjuſt calumny did occaſion the printing this Sermon. <hi>Hi mala de dulci flore venena legunt.</hi>
+               </note> traytor, a ty<g ref="char:EOLhyphen"/>rant, an uſurper, would you not ſeverely puniſh him, and that very juſtly?</p>
+            <p>If any ſhall be brought before you for calling Chriſt a baſtard, impoſtor, no God, a curſed <note n="b" place="margin">
+                  <hi>Coppin</hi> was then to be try<g ref="char:EOLhyphen"/>ed for ſuch like blaſphe<g ref="char:EOLhyphen"/>mies.</note> go are at the left hand, and many ſuch like, which I tremble to name, leaſt Chriſt ſhould ſtrike me dead for repeating ſuch blaſphemies. Let Chriſt, who is your Lord Protector now, and ſhall be your Judge one day, finde as much favour from you; ſtand you as much for Chriſt now you judge, as you would have Chriſt ſtand for you when he is your Judge: you muſt ſhortly come to your verſe;</p>
+            <q>
+               <p>
+                  <hi>Nuper eram judex, jam judicis ante tribunal.</hi>
+               </p>
+            </q>
+            <pb n="42" facs="tcp:43752:26"/>
+            <p> As your grey-hairs are ornaments to you as you are Jud<g ref="char:EOLhyphen"/>ges; <note place="margin">Judge <hi>Aske</hi> dyed before the next Aſſize.</note> ſo they are warnings to you as you are men, <hi>Pſal.</hi> 82. 8.</p>
+            <p n="4">4. Countenance and encourage the painfull and faithfull Miniſtry, be to them as the Oke to the Ivy, ſupport them by your power, that they may ſhade and ſhelter you by their prayers.</p>
+            <p>I have three things to preſs upon your Honours to this end.</p>
+            <p n="1">1. The neare relation between Magiſtrate and Miniſter <note place="margin">Primum in u<g ref="char:EOLhyphen"/>noquo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> genere eſt menſura caeterorum.</note> at firſt; <hi>Exod.</hi> 4. 14. <hi>Is not Aaron the Levite thy brother?</hi> And God commands fraternall care and correſpondency. <hi>v.</hi> 16. <hi>He ſhall be to thee in ſtead of a mouth, and thou ſhalt be to him in ſtead of God.</hi> Though you are the elder bre<g ref="char:EOLhyphen"/>thren, and carry away the honour and inheritance, and we only have an annuity for terme and time of life, yet we are your brethren;</p>
+            <q>
+               <l>—Dat Juſtinianus honores,</l>
+               <l>At genus &amp; ſpecies cogitur ire pedes.</l>
+            </q>
+            <p n="2">2. Your deare concernments, I may ſay of your lives and livelihoods (as <hi>Judah</hi> ſaid of <hi>Jacobs Benjamin,</hi> Gen. 44. 30.) are bound up in the lives and liberties of the Mini<g ref="char:EOLhyphen"/>ſters. Magiſtracy and Miniſtry are to the body politicke (as the two legs are to the body natural) upon which Com<g ref="char:EOLhyphen"/>mon-weales ſtand, by which they goe; if one of theſe be broken, or cut off, the other muſt needs faile, and the whole body fall. Yea the blinde <hi>Sampſons</hi> for zeale lay hold on both theſe pillars, and pull them downe together.</p>
+            <p n="3">3. The famous and flouriſhing ſtate of that Nation where the Magiſtrate and Miniſter mutuall ſupport one the other, the Magiſtrate by his perſon and power, the Miniſter by preaching and prayer: it is a more hopefull and happy Aſteriſme to a Land, than <hi>Caſtor</hi> and <hi>Pollux</hi> appearance to<g ref="char:EOLhyphen"/>gether is to the Sea. When more holy and happy dayes in <hi>Iſrael,</hi> then in <hi>Davids</hi> and <hi>Hezekiahs</hi> reignes? who encoura<g ref="char:EOLhyphen"/>ged the Seers, and liſtned to their voyce, though reproving
+<pb n="43" facs="tcp:43752:26"/> for ſin, and particularly, <hi>Thou art the man,</hi> 2 Sam. 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>7. When more flouriſhing times for Church and State, then in <hi>Conſtantines:</hi> and in <hi>England,</hi> then in Q. <hi>Elizabeths?</hi>
+            </p>
+            <p>I ſhall conclude all with <hi>Jehoſaphat</hi> his charge to his Jud<g ref="char:EOLhyphen"/>ges, 2 <hi>Chron</hi> 19. 6, 7. <hi>Take heed what you doe, for you judge not for man but for the Lord, who is with you in judgement; Wherefore now let the feare of the Lord be upon you, take heed and doe it, for there is no iniquity with the Lord our God, nor reſpect of perſons, nor taking of gifts.</hi>
+            </p>
+            <p>2. You worthy Patriots, the fixed Stars in the Orb of <note place="margin">To the Juſti<g ref="char:EOLhyphen"/>ces.</note> this County, whoſe ſweet and gratious influences, we the inferiour bodies have often received, and doe with all hum<g ref="char:EOLhyphen"/>ble thankfulneſs acknowledge, eſpecially thoſe three late ones.</p>
+            <p n="1">1. The cleering the County of vagrants, the peſt and ſhame of <hi>England.</hi>
+            </p>
+            <p n="2">2. The ſuppreſſing the multitude of Alchouſes, thoſe nurſeries of vices and villanies, yea the very ſhops and Sy<g ref="char:EOLhyphen"/>nagogues of the Devill. Surely your actions (if Reverend and religious Mr. <hi>Bolton</hi> were living) would cauſe him to recant that ſaying of his in his Sermon before the Judges at <hi>Northampton,</hi> Anno 1630. that it was not ſo hard a work to win <hi>Dunkirke,</hi> as to get downe an Alchouſe; Oh that <hi>Dunkirke,</hi> could now be ſo eaſily taken.</p>
+            <p n="3">3. Your preſſing the Acts and Statutes againſt the pro<g ref="char:EOLhyphen"/>phanation of the Lords day: I ſee you have found out that Law which <hi>Solon</hi> could never finde, <hi>viz.</hi> a Law to put all good Lawes into execution, you are truly <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſuch as are living Lawes, and make the Lawes to live; you have put clappers into thoſe bels which make muſick in the ears of Gods people, but ring a dolefull knell to the hearts of the wicked. Worthy Sirs, <hi>Quo pede cepiſtis,</hi> goe on, and give me leave to adde my mite to your trea<g ref="char:EOLhyphen"/>ſury.</p>
+            <p n="1">1. Have a very vigilant eye over the inferiour officers; a fault in the firſt concoction, can hardly be rectified by the other digeſtions.</p>
+            <p n="2">2. Be very impartiall in your juſtice, let that never be ſaid of your juſtice;</p>
+            <pb n="44" facs="tcp:43752:27"/>
+            <q>
+               <p>
+                  <hi>Dat veniam corvis vexat cenſura columbas.</hi>
+               </p>
+            </q>
+            <p>You have heard of <hi>Rete Vulcanium,</hi> which caught great ones as well as meane ones: Oh when ſcarlet drunkards, and worſhipfull ſwearers are brought before you; do not receive them with <hi>Your Servant Sir,</hi> nor diſmiſſe them with ſuch another Complement as their greateſt puniſhment; but let it be ſaid of your tribunal, what was ſaid of <hi>L. Caſ<g ref="char:EOLhyphen"/>ſius</hi> 
+               <note place="margin">
+                  <hi>Val: Max: lib.</hi> 3. <hi>cap.</hi> 7.</note> Praetor of <hi>Rome, Scopulus reorum,</hi> a rock to break all proud and prophane waves and wayes. Oh remember the charge God gives you, <hi>Deut.</hi> 16. 19, 20. <hi>Thou ſhalt not wreſt judgement, nor reſpect perſons, neither take a gift, but juſtice, juſtice, ſhalt thou doe.</hi> Oh imitate that admirable pat<g ref="char:EOLhyphen"/>terne, <hi>Job</hi> 29. 12. &amp; 18. <hi>Deliver the poore that cry, and the fatherleſs, and him that hath none to help him;</hi> cauſe the wid<g ref="char:EOLhyphen"/>dowes heart to ſing for joy, put on righteouſneſs, let it be your garment, let judgement be your robe and diadem, be eyes to the blind, and feet to the lame, fathers to the poore, and break the jawes of the wicked; make <hi>Kent</hi> as <note place="margin">
+                  <hi>Villamont. lib.</hi> 3. <hi>cap.</hi> 4. of his voyages.</note> 
+               <hi>Sardinall</hi> in <hi>Syria,</hi> of which it is reported, that no Turks, Saracens, Moores, can dwell, but dye before the years end. Oh let no common drunkards, prophane ſwearers, or de<g ref="char:EOLhyphen"/>boiſe wretches dwell here, but make them depart before the yeare end, that that ſcoffing Proverb of <hi>Kent</hi> and <hi>Chri<g ref="char:EOLhyphen"/>ſtendome</hi> may be out of date. For the Lords ſake, ſinners ſake, yea your own ſoules ſake, put to your helping hand: methinkes I ſee ſome dawnings of reformation againe, there was a glorious Sun ſhined in our Hemiſphere ſome ten yeares agoe; but like <hi>Amos</hi> Sun it ſet at noone day; ſome rayes ſeeme to appeare againe, lay hold upon them, leſt we be left in Cimmerian darkneſs, and it be ſaid of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that its worſe with her in the end, then it was in the beginning.</p>
+            <p n="3">3. You eloquent <hi>Tertullus</hi>'s, whoſe tongues are like <note place="margin">To the Law<g ref="char:EOLhyphen"/>yers.</note> ſo many <hi>Orpheus</hi> his pipes to allure the Judges, Witneſſes, Juries, auditors to you; remember you ſhall be cald from the barre to the tribunall, to give account to this Judge of
+<pb n="45" facs="tcp:43752:27"/> all your pleadings before the Judges: take a dram of the powder of Judgement, and lay it upon your tongues every time before you plead, it will be a ſpeciall preſervative, to keep your tongues from bliſtering, and your conſciences from feſtering.</p>
+            <p n="4">4. You Witneſſes and Jury men, anoint your lips with <note place="margin">To the Jurors.</note> the oyle of Judgement, it will cure you of and keep you from the ſtinking breath of falſe witneſs, or a falſe Verdict.</p>
+            <p>To cloſe and conclude all: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Men of <hi>Athens,</hi> not by nation but by nature, you have itching eares after newes and novelties, and it hath been the courſe and cu<g ref="char:EOLhyphen"/>ſtome of Preachers to pleaſe you with ſuch things, that you might applaud them with <hi>Hic est ille Demoſthenes;</hi> but I bet<g ref="char:EOLhyphen"/>ter know the worth of yours and my ſoule, then to foole and flatter them ſo away. I have endeavoured ſo to preach this day (not only as King <hi>James</hi> ſaid of a conſcionable Chaplain of his) as if judgement were behind your backs, but as if it were before your faces, I ſhould be glad ſo to defeat your ſoules. I have read of a famous cheat that was put upon a Bulgarian King that was a Heathen, by one <hi>Me<g ref="char:EOLhyphen"/>thodius</hi> a Painter, who was a Chriſtian; he being deſired to draw a rare peice of his art in this Princes Pallace, promiſed he would, and did accordingly; which when he had finiſhed the King came in full fraight, with expectation to have ſeene his Hawkes flying, Hounds running, Forreſts greene and flouriſhing, &amp;c. But behold there was a hideous Map of the day of Judgement, heaven in its blacks, the earth on fire, the Sea in blood, men and women crying, Devils roar<g ref="char:EOLhyphen"/>ing, &amp;c. Which did ſo apale and amaze him, that he pre<g ref="char:EOLhyphen"/>ſently turned from a Pagan to a Chriſtian.</p>
+            <p>You have come this day with expectation to hear a Ser<g ref="char:EOLhyphen"/>mon, garniſhed with ſtreines of Rhetorick, adorned with the flouriſhes of the Fathers, crowded with invectives a<g ref="char:EOLhyphen"/>gainſt the times, ſtuffed with ſcoffs and jeers of Sectaries and Anabaptiſts, the uſuall ſtuffe of theſe Sermons; but unexpectedly you meet with a Sermon of Judgement, as lively drawne before your eyes, as if it were penſilled upon the wall with a beame of the Sun; Oh that it would amaze
+<pb n="46" facs="tcp:43752:28"/> your hearts, affright your ſpirits, terrifie your conſciences, that of prophane people you would become pious and holy; I ſhould be glad with all my ſoule to put ſuch a holy and happy cheat upon you, to cozen you with heaven in ſtead of hell. I have often admired at that place, 2 <hi>Cor.</hi> 12. 16. <hi>Be<g ref="char:EOLhyphen"/>ing crafty I caught you with guile:</hi> I have endeavoured af<g ref="char:EOLhyphen"/>ter ſome ſuch cunning in catching your ſoules this day, and if I have failed of my purpoſe, yet I am ſatiſfied. <hi>In magnis &amp; voluiſſe ſat eſt.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43752:28"/>
+         </div>
+      </body>
+   </text>
+</TEI>
